@@ -1,0 +1,775 @@
+1
+00:00:27,000 --> 00:00:33,500
+First of all, let me say that I am delighted to be back home at Harvard.
+
+2
+00:00:34,000 --> 00:00:40,500
+I'm also somewhat petrified at the grandeur of the poetic chair I am occupying;
+
+3
+00:00:41,000 --> 00:00:44,500
+a chair which has over the years grown into soemthing more like a throne,
+
+4
+00:00:45,000 --> 00:00:48,500
+owing to the long list of eminent persons who have occupied it.
+
+5
+00:00:49,000 --> 00:00:55,500
+It's a tough act to follow, but I am comforted by the sense of having come home again,
+
+6
+00:00:56,000 --> 00:01:01,500
+and happy to be realizing my old student fantacy of what it's like to be on the other side of the desk.
+
+7
+00:01:02,000 --> 00:01:11,500
+Now that I AM on the side of the desk, all I seem to be able to think about is how it felt to be on THAT side,
+
+8
+00:01:12,000 --> 00:01:15,500
+Felt good -- if you want to know the truth -- those thirty years ago.
+
+9
+00:01:16,000 --> 00:01:18,500
+Maybe because I was very lucky in my masters:
+
+10
+00:01:19,000 --> 00:01:23,500
+Piston and Merit in Music; Patridge and Spenser in Literature;
+
+11
+00:01:24,000 --> 00:01:27,500
+Demoson and Hocking in Philosophy.
+
+12
+00:01:28,000 --> 00:01:30,500
+But there was one master who bridge it all for me.
+
+13
+00:01:31,000 --> 00:01:36,500
+Through whom the sense of beauty, analytic method, and historical perspective,
+
+14
+00:01:37,000 --> 00:01:40,500
+all came together in one luminous revelation.
+
+15
+00:01:41,000 --> 00:01:43,500
+And I would like to dedicate this six lectures to his memory.
+
+16
+00:01:44,000 --> 00:01:48,500
+He was professor David Prall of the philosophy department
+
+17
+00:01:49,000 --> 00:01:53,500
+-- a brilliant scholar and a deeply sensitive aesthitician.
+
+18
+00:01:54,000 --> 00:01:59,500
+It was in this now disdained and rather unfashionable field of aesthetics,
+
+19
+00:02:00,000 --> 00:02:04,500
+that I learned from him not only a great deal about the philosophy of beauty,
+
+20
+00:02:05,000 --> 00:02:10,500
+but also the fact that David Prall was himself an instance of the beauty he loved,
+
+21
+00:02:11,000 --> 00:02:13,500
+in mind, heart and spirit.
+
+22
+00:02:14,000 --> 00:02:18,500
+Those are terribly old-fastioned words in these days of behaviouristic of obsessiveness,
+
+23
+00:02:19,000 --> 00:02:27,500
+and I hope you will pardon such ancient words as mind, heart and spirit specially since I believe them as strongly now as I did then.
+
+24
+00:02:28,000 --> 00:02:36,500
+Perhaps the principal thing I absorbed from professor Prall and from Harvard in general,
+
+25
+00:02:37,000 --> 00:02:44,500
+was the inter-disciplinary spirit, that the best way to know a thing is in a context of another discipline.
+
+26
+00:02:45,000 --> 00:02:49,500
+So these lectures are given in that spirit of cross disciplines which is why
+
+27
+00:02:50,000 --> 00:02:55,500
+I'll be speaking of music along with quixotic forays into such fields as poetry,
+
+28
+00:02:56,000 --> 00:03:02,500
+linguistics, aesthetics and -- even heaven help us -- a bit elementary physics.
+
+29
+00:03:03,000 --> 00:03:08,500
+The title of this lecture series is borrowed from Charlse Ives
+
+30
+00:03:09,000 --> 00:03:15,500
+who wrote that brief but remarkable piece of his called "The Unanswered Questions" way back in 1908.
+
+31
+00:03:16,000 --> 00:03:19,500
+Ives had a highly metaphysical question in mind,
+
+32
+00:03:20,000 --> 00:03:24,500
+but I've always felt he was also asking another question, a highly a purely musical one:
+
+33
+00:03:25,000 --> 00:03:32,500
+whither music, as that question must have been asked by musical man entering the 20th century,
+
+34
+00:03:33,000 --> 00:03:38,500
+today with that century 65 years older, we are still asking it.
+
+35
+00:03:39,000 --> 00:03:49,500
+Only it is not quite the same question as it was then, and so the purpose of these six lectures is not so much to answer the question as to understand it,
+
+36
+00:03:50,000 --> 00:03:58,500
+to redefine it, even to guess at the answer to whither music, we must first ask whence(?) music, what music, whose music.
+
+37
+00:03:59,000 --> 00:04:04,500
+It will be pretentious to assume that by the end of the series we will answer the ultimate question,
+
+38
+00:04:05,000 --> 00:04:09,500
+but it's reasonable to assume that we'll be at a better position to make some educated guesses.
+
+39
+00:04:10,000 --> 00:04:17,500
+Let me start with a particularly nostalgic and vivid recollection from my years with professor Prall.
+
+40
+00:04:18,000 --> 00:04:24,500
+The time back in 1937, when I first heard a recording of Alvin Coplin's piano variations,
+
+41
+00:04:25,000 --> 00:04:32,500
+I fell in love with the music. It seemed so fiece and poetic, and utterly new.
+
+42
+00:04:37,000 --> 00:04:42,500
+This music opened up new worlds of musical possibilities to me,
+
+43
+00:04:43,000 --> 00:04:46,500
+and I wrote a raving report on it for my aesthetics course,
+
+44
+00:04:47,000 --> 00:04:52,500
+and Professor Prall became so interested in it that he decided he wanted to learn it himself.
+
+45
+00:04:53,000 --> 00:04:55,500
+What a man, even bought me the sheet music!
+
+46
+00:04:56,000 --> 00:05:03,500
+So I learned it and taught it to him and he taught it back to me, and we analysed it together, and it became our song.
+
+47
+00:05:04,000 --> 00:05:11,500
+This is now just a sentimental anecdote, because as we were analysing the Colplin variations I made a startling discovery,
+
+48
+00:05:12,000 --> 00:05:17,500
+that the first four notes of the piece,
+
+49
+00:05:18,000 --> 00:05:22,500
+which are the germ of the whole composition, are really these four notes,
+
+50
+00:05:24,000 --> 00:05:26,500
+with the fourth note at an octive higher.
+
+51
+00:05:27,000 --> 00:05:32,500
+And I suddenly perceived that the same four notes in another order
+
+52
+00:05:33,000 --> 00:05:36,500
+form the subject of Bach's C sharp minor fugue, from the well tempered clavier chord
+
+53
+00:05:41,000 --> 00:05:47,500
+And then I discovered that the same four notes transoposed, with the first note repeated,
+
+54
+00:05:48,000 --> 00:05:51,500
+germinating the variations in Stravinsky's Octet.
+
+55
+00:05:55,000 --> 00:06:05,500
+And the same four notes then pop up yet in another order and key as the initial motto of Ravel's Spanish Rhapsody.
+
+56
+00:06:09,000 --> 00:06:18,500
+And on top of all that I suddenly recalled some Hindu music I had heard -- I was a big oriental music buff at the time,
+
+57
+00:06:19,000 --> 00:06:21,500
+and there woo the same four notes again.
+
+58
+00:06:26,000 --> 00:06:30,500
+And at that moment, a notion was born in my brain
+
+59
+00:06:31,000 --> 00:06:37,500
+that there must be some deep primal reason why these discrete structures of the same four notes
+
+60
+00:06:38,000 --> 00:06:47,500
+should be at the very heart of such disparate musics as those of Bach, Colplin, Stravinsky, Ravel and the UdeShanka(?) dance company.
+
+61
+00:06:48,000 --> 00:06:55,500
+And all this, and more, I poured out to David Prall, and that was my first Norton lecture to an audience of one.
+
+62
+00:06:56,000 --> 00:07:05,500
+And from that time to this, the notion of a worldwide inborn musical grammar has haunted me.
+
+63
+00:07:06,000 --> 00:07:13,500
+But I will never have dreamed of basic lectures series on a notion so ill-defined and apparantly non-verifiable,
+
+64
+00:07:14,000 --> 00:07:24,500
+if it were not for the extraordinary materials that have appeared in recent years on the similar idea of a universal grammar underline human speech.
+
+65
+00:07:25,000 --> 00:07:32,500
+I've been profoundly impreesed and encouraged by the burgeoning of thought in this relatively new linguistic area;
+
+66
+00:07:33,000 --> 00:07:35,500
+an area that might be called Chomtskian.
+
+67
+00:07:36,000 --> 00:07:40,500
+By so name it I don't mean to restrict my observations to known Chomtsky's work alone.
+
+68
+00:07:41,000 --> 00:07:49,500
+It's a term of convenience, since he is the best known, most revolutionary and best publicised name in that area.
+
+69
+00:07:50,000 --> 00:07:56,500
+Along his collegues and disciples, many of whom are now in radical disagreement with him,
+
+70
+00:07:57,000 --> 00:08:04,500
+he has produced a body of work that has re-invagorated linguistics to a point where it seems new light may be shed
+
+71
+00:08:05,000 --> 00:08:10,500
+on the nature and structural functions of that elusive thing called Mind.
+
+72
+00:08:11,000 --> 00:08:19,500
+In other words, by studying in depth why we talk the way we do, by abstracting the logic principles of language,
+
+73
+00:08:20,000 --> 00:08:26,500
+we maybe at a position to discover how we can communicate in a larger sense through music, through the arts in general,
+
+74
+00:08:27,000 --> 00:08:30,500
+and ultimately through all our societal behaviour.
+
+75
+00:08:31,000 --> 00:08:36,500
+We may even discover how we are mentally constituted because language is species-specific,
+
+76
+00:08:37,000 --> 00:08:42,500
+that is it's common to all of us who belong to the human species and only to us.
+
+77
+00:08:43,000 --> 00:08:46,500
+Of course tomorrow morning cheerful new facts about dolphins
+
+78
+00:08:47,000 --> 00:08:52,500
+or certain chimpanzee named Zira may throw a monkey wrench to the works,
+
+79
+00:08:53,000 --> 00:08:57,500
+but meanwhile this philosophical science called linguistics
+
+80
+00:08:58,000 --> 00:09:06,500
+seems to have become our newest key to self discovery; with each passing year seems to substanciate ever more convincingly
+
+81
+00:09:07,000 --> 00:09:11,500
+the hypothesis of the innate grammatical competence as Chomtsky calls it,
+
+82
+00:09:12,000 --> 00:09:17,500
+genetically endowed language faculty which is universal;
+
+83
+00:09:18,000 --> 00:09:23,500
+it's a human endowment; it proclaims the autonomy of the human spirit.
+
+84
+00:09:24,000 --> 00:09:32,500
+Well, so does music. But how do we investigate musical universality by so scientific a means as linguistic analogy?
+
+85
+00:09:33,000 --> 00:09:43,500
+Music is supposed to be a metaphorical phenomenon, some kind of mysterious symbolisation of our inner most affective existence.
+
+86
+00:09:44,000 --> 00:09:49,500
+It lends itself more easily to descriptions in purple prose than in equations.
+
+87
+00:09:50,000 --> 00:09:57,500
+And even so great a scientist as Einstein said that the most beautiful experience we can have is the mysterious
+
+88
+00:09:58,000 --> 00:10:00,500
+-- of course he played the fiddle and he loved music.
+
+89
+00:10:01,000 --> 00:10:05,500
+But then why do some many of us constantly try to explain the beauty of music?
+
+90
+00:10:06,000 --> 00:10:08,500
+That's apparently depriving it of it's own mystery.
+
+91
+00:10:09,000 --> 00:10:16,500
+The fact is that music is not only a mysterious and metaphorical art, it is also in itself a science;
+
+92
+00:10:17,000 --> 00:10:23,500
+it's made of mathmatically measurable elements: frequencies, durations, decibels, intervals.
+
+93
+00:10:24,000 --> 00:10:35,500
+So any explication of music must combine mathematics with aesthetics just as linguistics combine mathematics with philosophy, or sociology, or whatever.
+
+94
+00:10:36,000 --> 00:10:44,500
+It is precisely for this inter-disciplinary reason that I'm so attracted by the new linguistics as a fresh approach to music,
+
+95
+00:10:45,000 --> 00:10:54,500
+(quite not)??? as the study of musical linguistics, just as there already exist as a psyco-linguistics, and a socio-linguistics.
+
+96
+00:10:55,000 --> 00:11:06,500
+Alright, let's try it. Luckily the study of linguistics is a three fold science and so provides us with three handy categories in which these lectures can be conceived.
+
+97
+00:11:07,000 --> 00:11:13,500
+One phonology, two syntax, and three semantics.
+
+98
+00:11:14,000 --> 00:11:23,500
+Phonology, syntax, semantics, these are three departments of linguistics and they point the way for our musical investigations as well.
+
+99
+00:11:24,000 --> 00:11:33,500
+In this first lecture, we will oriented phonologically, examining both language and music from a most fundamental point of view that of sound itself;
+
+100
+00:11:34,000 --> 00:11:38,500
+the stuff of which verbal and musical utterences are made.
+
+101
+00:11:39,000 --> 00:11:43,500
+And that should give us a solid base to build on, so that in our next session we can plunge into syntax,
+
+102
+00:11:44,000 --> 00:11:48,500
+the actual structures that arise from that phonologic stuff.
+
+103
+00:11:49,000 --> 00:11:59,500
+From then on, the remaining four lectures will confront the challenges of semantics, that is meaning, both musical and extra-musical meaning.
+
+104
+00:12:00,000 --> 00:12:07,500
+Semantics can be seen as the natural result of adding phonology and syntax together: sound plus structure.
+
+105
+00:12:08,000 --> 00:12:18,500
+And the resultant semantic enquiry will bring us around back to Ives unanswered question whither music in our time.
+
+106
+00:12:19,000 --> 00:12:24,500
+And now you can see why I became so excited when I began reading the new linguistics,
+
+107
+00:12:25,000 --> 00:12:36,500
+which postulated the notion of innate linguistic competence, because suddenly my old under-graduated notion of a universal muscial grammar was re-animated.
+
+108
+00:12:37,000 --> 00:12:45,500
+It lay dormant for years, paralysed, I suppose, by that deadly cliche: Music is the universal language of mankind.
+
+109
+00:12:46,000 --> 00:12:53,500
+After a thousand repetitions of that one, usually with the connotation support your local symphony orchestra,
+
+110
+00:12:54,000 --> 00:12:59,500
+the well-meant phase becomes not only a cliche, but a misleading one.
+
+111
+00:13:00,000 --> 00:13:05,500
+How many of you can listen to forty minutes of a Hindu Raga with intelligent comprehension,
+
+112
+00:13:06,000 --> 00:13:08,500
+to say nothing of merely saying awake.
+
+113
+00:13:09,000 --> 00:13:13,500
+And how about certain kinds of avant-garde music: not so universal, are they?
+
+114
+00:13:14,000 --> 00:13:16,500
+Well, thought I so much for the universal language of mankind.
+
+115
+00:13:17,000 --> 00:13:25,500
+But then when I began reading the new lingustics, I thought here is a fresh way to pursue my intuitive idea,
+
+116
+00:13:26,000 --> 00:13:29,500
+which had grown still and deteriorated into a platitude.
+
+117
+00:13:30,000 --> 00:13:35,500
+In other words, by building analogies between muscial and linguistc procedures,
+
+118
+00:13:36,000 --> 00:13:44,500
+couldn't that cliche of that universal language be debunked? Or confirmed? Or at least clarified?
+
+119
+00:13:45,000 --> 00:13:52,500
+OK, let's clarify. Universality is a big word and a dangerous one.
+
+120
+00:13:53,000 --> 00:13:57,500
+At the same time that it implies likeness as it also implies diversity.
+
+121
+00:13:58,000 --> 00:14:03,500
+Remember Montaigne's remark that "the most universal quality of man is his diversity".
+
+122
+00:14:04,000 --> 00:14:06,500
+This paradox lies at the very heart of linguistics study
+
+123
+00:14:07,000 --> 00:14:15,500
+because at the same time that a linguist is investigating any one particular language or even a family of languages,
+
+124
+00:14:16,000 --> 00:14:18,500
+trying to formulate a descriptive grammar,
+
+125
+00:14:19,000 --> 00:14:25,500
+is also searching for the underlying similarities among different languages or families of languages.
+
+126
+00:14:26,000 --> 00:14:27,500
+At least the new linguists are.
+
+127
+00:14:28,000 --> 00:14:34,500
+They construct these descriptive grammars by analysing the mental processes of human speech,
+
+128
+00:14:35,000 --> 00:14:40,500
+that's deriving sets of rules that hopefully apply to all human languages,
+
+128
+00:14:41,000 --> 00:14:45,500
+in fact to all possible human languages, both known and unknown.
+
+129
+00:14:46,000 --> 00:14:55,500
+Now that's a tall order, but a magnificent goal requiring an inspiring guess of the great scientific leap of the mind.
+
+130
+00:14:56,000 --> 00:15:06,500
+And if that goal can be attained and the universality principle proved, it can turn out to be a timely and welcome affirmation of human brotherhood.
+
+131
+00:15:07,000 --> 00:15:16,500
+But how do linguists go about such a task? Well, one way is by seeking out what they call substantive universals.
+
+132
+00:15:17,000 --> 00:15:21,500
+For example, in the realm of phonology, which is our main concern in this lecture,
+
+133
+00:15:22,000 --> 00:15:29,500
+linguists propose a substantive universal which says the following: all languages share certain phonemes in common,
+
+134
+00:15:30,000 --> 00:15:38,500
+that is minimal speech units that arise natually from the physiological structure of our mouths, throats and noses.
+
+135
+00:15:39,000 --> 00:15:44,500
+Since we all share those features we share likewise the sound "A" for instance,
+
+136
+00:15:45,000 --> 00:15:50,500
+a sound produced by simply opening the mouth and vocolising it -- "A".
+
+137
+00:15:51,000 --> 00:15:56,500
+Every normal human being can do this in any language, there is simply no exception,
+
+138
+00:15:57,000 --> 00:16:03,500
+even though the vowel may vary according to the shape of the oral cavity, or according to one's social background,
+
+139
+00:16:04,000 --> 00:16:09,500
+producing such variance as "cla:ss" and "class" and "claess".
+
+140
+00:16:10,000 --> 00:16:15,500
+But they are all versions of the same phoneme "A", and so must be considered universal.
+
+141
+00:16:16,000 --> 00:16:18,500
+Now that's a substantive universal voile.
+
+142
+00:16:19,000 --> 00:16:29,500
+Other linguists, of course I'm skipping enormous numbers of other substantive universals and distinctive features, I don't want to burden you with all that,
+
+143
+00:16:30,000 --> 00:16:37,500
+but other, certain other linguists go about seeking universals in different ways, such as etymologists,
+
+144
+00:16:38,000 --> 00:16:48,500
+who point out that the interesting thing about the Spainsh word "allad", to speak, and the Portuguese equivalent "fallad", to speak,
+
+145
+00:16:48,600 --> 00:16:57,500
+is not that they seem to be totally different words, but that they are the same word deriving from the same Latin root "fabolale",
+
+146
+00:16:58,000 --> 00:17:00,500
+but with phonetic deviations.
+
+147
+00:17:00,600 --> 00:17:07,500
+Let's not go into why they are deviated, though it's a facinating subject. Let's agree only about the common origin.
+
+148
+00:17:08,000 --> 00:17:10,500
+There's the key, common origin.
+
+149
+00:17:11,000 --> 00:17:17,500
+Because one continues in this way, working backwards through history in search of even ealier common origins,
+
+150
+00:17:18,000 --> 00:17:26,500
+one arrives at startling points of universality, only such investigation has to stop short as soon as written languages run out.
+
+151
+00:17:27,000 --> 00:17:34,500
+Because obviously the ultimate evidence of universality in speech is to be sought in the oldest languages of Man,
+
+152
+00:17:35,000 --> 00:17:41,500
+pre-historical languages which preceded, so to speak, the Tower of Babel moment in human evolution.
+
+153
+00:17:42,000 --> 00:17:45,500
+But such ancient languages simply don't exist.
+
+154
+00:17:46,000 --> 00:17:52,500
+They were spoken millions of years ago, long before written languages be developed, which was only thousands of years ago.
+
+155
+00:17:53,000 --> 00:18:00,500
+And so being stuck with out-written evidence, historical linguists are forced into speculation.
+
+156
+00:18:01,000 --> 00:18:11,500
+Ideally, what they are seeking is a parent language, one universal tongue that may have been common to all of early mankind.
+
+157
+00:18:12,000 --> 00:18:18,500
+And that's the tallest order of all, because it means wandering in the mists of pre-history.
+
+158
+00:18:19,000 --> 00:18:24,500
+One tangible accomplishment at least has been to find a name for this field of enquiry,
+
+159
+00:18:25,000 --> 00:18:31,500
+and that name is "monogenesis", denoting the theory of all languages bringing from a single source.
+
+160
+00:18:32,000 --> 00:18:35,500
+A fine word, monogenesis, and a thilling idea.
+
+161
+00:18:36,000 --> 00:18:42,500
+It thrills me anyway to the point where I stayed up all of one night, making monogenetic speculations of my own.
+
+162
+00:18:43,000 --> 00:18:51,500
+I tried to imagine myself a hominid, and tried to feel what a very very ancient ancestor of mine
+
+163
+00:18:52,000 --> 00:18:55,500
+might have felt and might have been impelled to express verbally.
+
+164
+00:18:56,000 --> 00:19:03,500
+I scribbled pages full of basic mono-syllables which felt somehow right, which seem to belong together,
+
+165
+00:19:04,000 --> 00:19:09,500
+and which delighted me with their curious logic. I began by imagining myself a homonid infant,
+
+166
+00:19:10,000 --> 00:19:16,500
+just lying there contentedly trying out my new-found voice. Um...
+
+167
+00:19:17,000 --> 00:19:26,500
+Then I got hungary, Um..! Calling my mother's attentions to my hunger. And as I opened my mouth to receive the nipple,
+
+168
+00:19:27,000 --> 00:19:32,500
+Um..Ah! Know I've invented my primal word -- Ma, mother.
+
+170
+00:19:33,000 --> 00:19:38,500
+This is got to be one of the first proto words ever uttered by Man.
+
+171
+00:19:39,000 --> 00:19:47,500
+Still to this day, most languages have a word for mother that employs that root -- "Ma", or some phonetic variant for it.
+
+172
+00:19:48,000 --> 00:20:01,500
+All the Romance languages... so on the Germanic.... Slavic... Hebrew ... Navajo, even Navajo, even Swahili
+
+173
+00:20:02,000 --> 00:20:08,500
+and Japanese and Chinese, they call her Mama.
+
+Well, that was a small triumph. And then I began expanding.
+
+What about "Ma" plus "L"? Say, "mal". Well, now there's a proto syllable for you.
+
+My first association, of course, was with all the familiar words connoting badness: "malo", "male", "molve".
+
+All Latin derived languages, of course; then I thought, in the Slavic family of languages, that syllable connotes smallness:
+
+"malle", "malo", "malinky" and so on.
+
+Sudden hypothesis: could there just possibly be a monogenetic connection way back then between the concepts of badness and smallness.
+
+Why not? Remember we are being harmonids now and it's perfectly conceivable that what small must be automatically bad.
+
+To be small is to be weak, to be only human, as against the powerful gods; as against the huge magical earth and sky.
+
+Hence weaknesses undesirable, hence bad. It's bad to have small harvest, small images, small stature, small dinner, "malo".
+
+Then I thought, if that's true, then big must equal good; there must be a corresponding kinship between bigness and goodness.
+
+So when I went searching through all the dictionaries I can find, what do you think? I found it.
+
+Most familiar root denoting bigness is "er" -- the growling of the big tiger, produce all the big words: grandy, grandir, grace, grow and even including () in Dutch
+
+where g is soften to the gutteral ().
+
+And all these are in Latin and Germanic, but again look at the Slavic, where again the "g" is gutteralised to "h"
+
+And behold the glorious word (), which means so inevitably and comfortingly good.
+
+And () is brave and big brave good and God.
+
+Somehow it all adds up. Way back before and behind and beyond all these comparatively recent languages,
+
+there must lurk, I fondly hoped, one universal pararnt tongue, which contains the great simultaneous equation:
+
+big equals good and small equals bad. Triumph!
+
+By why am I burdening your with my private game playing? This less than scientific speculation, it's hardly what a liguist will call authentic.
+
+I cannot say strongly enough that I claim the right to be wrong. It's every teacher's academic right, and I stand ready to take the risk involved,
+
+just as any theorist or scientist does.
+
+So my monogenetic speculation interests me and I hope you because of what it suggests about music.
+
+The origins of music and the very nature of musical materials, the notes themselves.
+
+Let's make a simple analogy and return for a second to being that harmonid infant who invent that proto word - "ma"
+
+And we quickly learn to associate that morpheme with our supplier of milk, right?
+
+So we call her when we need her -- "ma".
+
+Now on a pure phonological level, that begins at sound, begins with an attack, an ictus.
+
+"ma" and ends in a descending glide.
+
+"ma" that's the way we speak, ictus plus glide.
+
+Of course the glide may also be upward if the intention is interogative -- "ma".
+
+Now let's feel a tremendous intensification of our need, of our hunger, of our patience,
+
+so we intensify the ictus by prolonging it -- "ma--"
+
+And lo and behold we are singing; music is born; the syllable has become a note.
+
+"ma--" just eliminate the glide; or to use our technical jargon of our time: the morpheme is re-written as a pitch event.
+
+And what a event that must have been way back then.
+
+What we seem to be getting to is a hypothesis that will confirm another famous cliche, namely music is hightened speech.
+
+After all what causes such a hightening? Intensified emotions, hunger, impatience.
+
+Certainly the deepest universals we all share -- emotions, affects.
+
+We all have the same capacity for passion, fear, anticipation, aggression.
+
+We all display the same physiological manifestations of affect:
+
+our eyebrows go up with anticipation; our hearts pound with passion; and fear affects us universally with gooseflesh.
