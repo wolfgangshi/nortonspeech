@@ -92,7 +92,7 @@ and I hope you will pardon such ancient words as mind, heart and spirit speciall
 
 24
 00:02:28,000 --> 00:02:36,500
-Perhaps the principal thing I absorbed from professor Prall and from Harvard in general,
+Perhaps the principle thing I absorbed from professor Prall and from Harvard in general,
 
 25
 00:02:37,000 --> 00:02:44,500
@@ -844,7 +844,7 @@ But we musicians are luckier; we have the built-in, pre-ordained, universal, kno
 
 To those of you who know all about the harmonic series, I beg your indulgence for a few minutes, so that I can sketch it out for those who don't.
 
-This accoutic phenomena, called the harmonic series or over-tune series, is not hard to understand,
+This accoutic phenomena, called the harmonic series or overtone series, is not hard to understand,
 
 if you remember the basic high school fact: all sounds are produced by vibrating bodies, which send out waves.
 
@@ -854,22 +854,223 @@ it will emit waves that are irregular, and our ears will perceive them as noise
 
 (Ou..)
 
-If the source of vibration is of a consistent structure, like anyone of the strings in this piano,
+But if the source of vibration is of a consistent structure, like anyone of the strings in this piano,
 
 it will emit regular waves and we hear them as a musical tone.
 
-Of course the source does not have to be a string, it can be a column of air as in clarinet,
+Of course the source does not have to be a string, it can be a column of air as in a clarinet,
 
-or a column of steel in the tube, or a stretched animal hide as in a kettle drum.
+or a column of steel as in a tube of bell, or a stretched animal hide as in a kettle drum.
 
-But whatever it is it produces what's called energy vibratory motion, that is the official language,
+But whatever it is it produces what's called energy in vibratory motion, that is the official language,
 
 by being beaten, blown, plucked, struck or frictionised with a bow.
 
-Let's settle with a piano string, Let's say this one,
+Let's settle with a piano string, let's say this one,
 
 which is of a particular length, tension, thickness and density.
 
 and when struck by its hammer it produces a sound wave of a frequency of 132 vibrations per second,
 
 and is known to the world as the note C.
+
+Now comes the interesting part, if I sit at the piano and play that note C,
+
+you may think you are hearing only that one tone: a dark, rich, base note.
+
+But you are not, you are simultaneously hearing a whole series of higher tones,
+
+but are sounding at the same time.
+
+These are arranged in an order preordained by nature and rules by universal physical laws.
+
+If this is news to you, I hope it's good news.
+
+Because all these upper notes, of which maybe you are unaware,
+
+result from a phenomenon of nature, whereby any sound producing source,
+
+or shall I say pitch producing source such as this piano string,
+
+vibrates not only as a whole string in all its whatever inch glory sounding that low C;
+
+but also in fractional segments of that string, each vibrating separately.
+
+It's as though the string were infinitely divisable into two halves,
+
+and into three thirds and four quarters and so on.
+
+And the smaller those segments are, the faster they vibrate,
+
+producing higher and higher frequencies, and therefore higher and higher tones --
+
+overtones; or harmonics, since they are sometimes called.
+
+And these overtones or harmonics are all sounding together with the fundamental
+
+full string. And this is basic principle  by which the entire harmonic theory is generated.
+
+starting on any fundamental tone.
+
+Now if you have already knew all that from high school physics,
+
+then you'll also know that these overtones are naturally less apparent to the ear
+
+than the fundamental, which is in this case low C.
+
+And infact they sound more and more faintly as they go higher.
+
+Now any note I strike will contain its own series of overtones.
+
+But the lower the note I strike, the more abundantly audible will be its homarnic series,
+
+which accouts in part for the comparative richness of this low C.
+
+Now remember I spoke of the preordained order in which the overtones appear.
+
+Let's see if I can make you actually hear those overtones in that order.
+
+The first overtone of the series according to the laws of physics has to be
+
+exatly an octive higher than the fundamental C we've been hearing.
+
+In other words, this has to be this C, an octive higher.
+
+Now if I silently press down the key of this higher C, and hold it so that the string
+
+is free to vibrate. And then abruptly strike the fundamental C, an octive lower,
+
+what do you hear?
+
+You are clearly hearing the firat overtone vibrating sympathetically an octive
+
+above its fundamental. I hope you heard it, did you? Listen again.
+
+Clear as a bell. So obviously this upper C is an integral part of the C an octive below.
+
+It's a built-in harmonic sounded by the two halves of that lower string vibrating independently.
+
+Of the next overtone of this preordained order, results from that same fundamental string
+
+vibrating in three parts; and this one will be the first different overtone, that is the
+first one you will hear other than a C. That's going to be a G, this G.
+
+Now let's repeat our experiment, I press this new one down silently, and then again
+
+strike this fundamental C. What do we hear now? That G, right?
+
+A new tone, again clear as a bell. You want to hear it again?
+
+Now we've just reached a very significant point. Have you noticed that the fundamental tone
+
+and its first overtone are really the same note C but an octive apart.
+
+But this new overtone G is a fifth away from C.
+
+So we now have two different tones. And once they are established in our ears, we are
+
+in possession of the key to the whole tonal system, a system based on the concept of
+
+tonic and dominant. Tonic and dominant. This C represents the idea of tonic, which has
+
+the function of establishing the tonal center of any given key.
+
+And the function of the dominant, is to aid and abet in the establishment of that tonality,
+
+through a special relationship it enjoys with the tonic, owing to their proximity
+
+in the harmonic series. But more of that later.
+
+Right now onto the next overtone which is again a C, a forth higher than the G we've just heard.
+
+Shall we repeat the experiment? I press it down silently, there it is, you hear it?
+
+Shall we do it again?
+
+Now the next one is again a new pitch. This time a third higher than its predecessor.
+
+Notice that the intervals are getting progessively smaller as we ascend the series,
+
+began with an octive and then a fifth and then a forth and then, now, a third.
+
+And the new overtone will be this note E.
+
+Listen.
+
+It's a bit fainter, but it's there for all to hear. Shall I try it again?
+
+Hear it way back there? One last time. It's clear.
+
+And there you have the first four overtones of the series:
+
+fundamental plus one two three four, three of which are of different pitches,
+
+those three. Now it must be obvious to you that these three notes rearranged in
+
+scale or order, constitute what is known as the major triad,
+
+which is the very nucleus, the cornerstonec of most of the music we hear
+
+from day to day, whether it's a symphony or a hymn, or a blues.
+
+And this triad with its tonic-dominant relationship, plus the third sandwiched between,
+
+this triad is the fundation of Western tonal music as it developed
+
+of the last three centuries or so, along with the development of our western culture
+
+in general. Let's not make the mistake so many people make
+
+of regarding this triad as the basic universal. That's a miscomprehension that's far
+
+too common, in that it fails to recognise that our accidental culture is only one
+
+of many world's cultures, in spite of its current prevalence and its worldwide influence;
+
+and in spite of the fact that it thinks it's the only important culture.
+
+A perfect example of this, a fact of this misconception arises with the very next overtone
+
+in the series, which is a stranger to the western tonal culture.
+
+In fact this next overtone does not even appear on the piano, which means I cannot
+
+demonstrate it for you as I have for the preceding ones.
+
+More exactly stated, it is not to be found on the piano in its natural, pure form
+
+as it derives by physical law from that fundamental C string.
+
+Let me digress a moment to tell you why.
+
+You see this piano, like all keyboard instruments, is a tempered instrument, which
+
+means its notes have been tempered or "tampered with" (I don't mean a joke by that,
+
+just mean to clarify the word).
+
+So that each one of them, each one of these notes can serve its function in all
+
+twelve keys at once. This readjustment in tuning became inevitable when music
+
+reached its tonal adulthood, around 1700; and found that it didn't have to remain in
+
+one key from the beginning to the end of a piece, but can modulate from one key
+
+to another in the course of it; but the notes deriving naturally from
+
+the harmonic series will work only in one key at a time. Do you follow that?
+
+One key at a time. That is what in tune in one key is likely to be out of tune in another.
+
+Would you believe that if this piano were to encompass only natural untempered tones, this single
+
+octive space would have to contain 77 different keys? Well, you can understand that a compromise has
+
+to be made somewhere, and that "somewhere" was the moment in history when the rapid development
+
+of tonal harmony coinciding with the equally rapid development of the keyboard instruments with
+
+their fixed, unchangeable tones. And that is how the tempered calvier chord came to be, to say
+
+nothing of this Baldwin Grand. And that's why I can't play you this next overtone.
