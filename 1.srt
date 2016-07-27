@@ -981,7 +981,7 @@ through a special relationship it enjoys with the tonic, owing to their proximit
 
 in the harmonic series. But more of that later.
 
-Right now onto the next overtone which is again a C, a forth higher than the G we've just heard.
+Right now onto the next overtone which is again a C, a fourth higher than the G we've just heard.
 
 Shall we repeat the experiment? I press it down silently, there it is, you hear it?
 
@@ -991,7 +991,7 @@ Now the next one is again a new pitch. This time a third higher than its predece
 
 Notice that the intervals are getting progessively smaller as we ascend the series,
 
-began with an octive and then a fifth and then a forth and then, now, a third.
+began with an octive and then a fifth and then a fourth and then, now, a third.
 
 And the new overtone will be this note E.
 
@@ -1240,3 +1240,169 @@ What we are trying for is a very high overview of musical development in terms o
 constantly being enriched, by more and more remote and chromatic overtones.
 
 It's as if we can see the whole of music developing from prehistory to the present in two minutes.
+
+Let's again pretend that we're homonids, and the smash hit moment is, let's say Fair Harvard.
+
+Here we are, in our homonid hut crooning, and now maybe our wives and maybe our pre-pubescence sons join in,
+
+automatically, we are singing not in unison, but in octives, since men's and women's voices
+
+are naturally an octive apart. Now that octive interval,
+
+I wish I could sing an octive so I can really show you what I mean. But that octive interval
+
+happens to be the first interval of the harmonic series as you remember, right?
+
+OK. Now centuries passed and the next interval of the harmonic series is assimilated by humanity,
+
+namely the fifth. And now we can be singing this.
+
+Now of course this little change brings us forward a mere ten million years,
+
+into the tenth century AD, an interval of fairly sophisticated musical culture.
+
+But now we admit the next interval of the series, the fourth; and now we can mix intervals
+
+of the ocitive and the fifth and the fourth.
+
+Now that's beginning to sound like polyphony.
+
+And again comes a great leap, as music absorbs the next overtone, the third.
+
+And just listen to the difference.
+
+It's a whole new music, richer, melodier, with a new colouristic warmth.
+
+And as we know, this new interval of the third, bacause I like the older sound better,
+
+anyway, ah...
+
+As we know the new interval of the third introduces into music the phenomenon of the triad,
+
+so that now Fair Harvard can begin to sound more like its Victorian self.
+
+And so there was born, what we now call, tonal music; a stable tonal language,
+
+firmly rooted in the basic notes of the harmonic series:
+
+The fundamental and its first different overtone, the fifth; now and for evermore to be known
+
+as the tonic and the dominant. And that fifth interval really does dominate,
+
+because once this tonic-dominant relationship is established, it's a feel???? day for composers.
+
+There can be now a fifth of fifth of fifth of fifth;
+
+each one of them, a new tonic producing a new dominant, a whole circle of fifths;
+
+twelve of them in fact; always winding up with the starting tone;
+
+whether proceeding upwards, let's say
+
+from the low C, G, D, A, E, B, F#, C#, G#, Eb, Bb, F, C.
+
+That's again C,  believe or not that?
+
+Or proceeding downwards, starting from that
+
+C, F, Bb, Eb, Ab, Db, Gb, B, E, A, D, G, C
+
+back to C, that's the circle of twelve fifths, and that's the answer I promised you;
+
+that's how we got our twelve different tones of our chromatic scale.
+
+Because if you take all those twelve of the circle of fifths, and put them together
+
+in scale order, you'll get this.
+
+And what's more those twelve notes generate a circle of twelve different keys,
+
+through which, thanks to the perfecting of the tempered system, composers can now
+
+go free willing at their own chromatic pleasure.
+
+And this means ultimately Fear Harvard can sound like this.
+
+That's chromatic porrige; and in our own century it's going to become goulash.
+
+How does music contain this loose runny chromaticism?
+
+By the basic principle of diatonicism; that stable relationship
+
+of tonics, dominants, sub-dominants, and super-tonics and new dominants and
+
+new tonics, and now we modulate as freely as we want, as chromatically as we want,
+
+and stil have complete tonal control.
+
+This great system of tonal controls was perfected and codified by Bach, J.S.Bach,
+
+whose genius was to balance so delicately and so justly these two forces of
+
+chromaticism and diatonicism, forces that are equally powerful and presumably
+
+contradictory in nature.
+
+And this point of delicate balance is like the still center in the stormy flux of
+
+musical history.
+
+A condition of such stability that was able to continue with out remarkable changes
+
+for almost a century; and this roughly a hundred years became a golden age.
+
+This is not to say that the world drastic changes in style and form in those a hundrend years.
+
+It's after all this golden age saw emergence of a whole new Rococo style; to say nothing
+
+of the phenomenal rise of sonata form and the hands of such giants as C.P.E.Bach and Haydn and Mozart and
+
+Beethoven himself.
+
+But these changes are syntactic and semantic changes, which will be examining and enjoying in future lectures.
+
+Right now, we are limiting our investigation to phonology;
+
+and in these terms, we can see the peak attained by Bach,
+
+continuing as s kind of a plateau, level and lofty right in to the music of Beethoven.
+
+Now at this point, I'd like to invite you to listen with me to one of the supreme examples of this golden age:
+
+Mozart's G minor symphony, a work of utmost passion utterly controlled
+
+and of free chromaticism elegantly contained.
+
+I'll try to prepare you a bit somewhat with a few illustrations of this control and containment,
+
+so that you can hear the symphony, hopefully with fresh phonological ears.
+
+Remember what we are looking for is the wonderfully creative way in which chromatic flexibility
+
+can be systematically contained within the framework of tonic-dominant relationships.
+
+It's a curious thing and a crucial one, that through this perfect combination of opposites,
+
+chromaticism and diatonicism, there is distiled the essence of ambiguity of all things.
+
+This word "ambiguity" may seem to be the most unlikely word to use to speak of a golden age
+
+composers like Mozart, a master of clarity and precision.
+
+But ambiguity has always inhabited musical art, indeed all the arts; because it's one of art's most
+
+potent aesthetic functions.
+
+More ambiguous, more expressive, up to a certain point.
+
+Of course there is a limit, which we are going to run into in the course of these lectures.
+
+We are going to run into a state of such increased ambiguity
+
+that problems of musical clarity are bound to arise; and that's where we'll be confronted head on
+
+by Ive's unanswered question: whither. Meanwhile, we are still in the golden age with ambiguity
+
+classically contained in the Augusten balances and proportions in here into this Moart's symphony.
+
+Let's look at it very briefly.
