@@ -1233,7 +1233,7 @@ And there you have the first four overtones of the series:
 A fundamental plus one two three four, three of which are of different pitches,
 
 00:37:15,000 --> 00:37:22,500
-those three. Now it must be obvious to you that these three notes rearranged in scaler order,
+those three. Now it must be obvious to you that these three notes rearranged in scale order,
 
 00:37:23,000 --> 00:37:29,500
 constitute what is known as the major triad, which is the very nucleus,
@@ -1401,7 +1401,7 @@ plus the G plus the E
 plus that blue note, a dubious A.
 
 00:41:22,050 --> 00:41:25,000
-Or if we rearrange them in a scaler order,
+Or if we rearrange them in scale order,
 
 00:41:25,100 --> 00:41:30,000
 C-E-G and sort of A,
@@ -1467,7 +1467,7 @@ is this one D.
 So now we have five different tones to play with,
 
 00:43:03,500 --> 00:43:06,300
-which we again put into  scaler order.
+which we again put into scale order.
 
 00:43:08,500 --> 00:43:15,300
 And presto a new universal is given us the 5 note or pentatonic scale.
@@ -1677,7 +1677,7 @@ What about those Hindu Ragas so many people find difficult to comprehend.
 Well I suggest a simple answer.
 
 00:49:12,300 --> 00:49:20,200
-In the light of our linguistic analogies, just as the grammars of the human languages,
+In the light of our linguistic analogies, just as the grammars of human languages,
 
 00:49:20,300 --> 00:49:23,200
 even mutually unintelligible ones,
@@ -1704,10 +1704,10 @@ naturally ordered, tonal structure.
 Now I trust you realise that all of this has been enormously compressed
 
 00:49:55,205 --> 00:50:00,200
-and undocumented by historical musical examples, because that's gonna take all night;
+and undocumented by historical musical examples, because that will take all night;
 
 00:50:00,300 --> 00:50:06,200
-but this is not a linguistic course; nor is it a history of music course.
+but this is not a linguistics course; nor is it a history of music course.
 
 00:50:06,300 --> 00:50:10,200
 What we are trying for is a very high overview
@@ -1722,7 +1722,7 @@ by more and more remote and chromatic overtones.
 It's as if we can see the whole of music developing from prehistory to the present in two minutes.
 
 00:50:28,300 --> 00:50:36,200
-Let's again pretend that we're homonids, and the smash hit moment is, let's say Fair Harvard.
+Let's again pretend we're homonids, and that the smash hit moment is, let's say Fair Harvard.
 
 00:50:36,300 --> 00:50:41,200
 Here we are, in our homonid hut crooning,
@@ -1758,7 +1758,7 @@ into the tenth century AD, and into a fairly sophisticated musical culture.
 But now we admit the next interval of the series, the fourth;
 
 00:51:50,300 --> 00:51:57,200
-and now we can mix intervals of the ocitive and the fifth and the fourth.
+and now we can mix intervals of the octive and the fifth and the fourth.
 
 00:52:05,300 --> 00:52:08,200
 Now that's beginning to sound like polyphony.
@@ -1779,7 +1779,7 @@ And as we know, this new interval of the third,
 bacause I like the older sound better, anyway, ah...
 
 00:52:34,300 --> 00:52:39,200
-As we know the new interval of the third introduces into music
+As we know this new interval of the third introduces into music
 
 00:52:39,230 --> 00:52:41,200
 the phenomenon of the triad,
@@ -1806,7 +1806,7 @@ And that fifth interval really does dominate,
 because once this tonic-dominant relationship is established,
 
 00:53:20,300 --> 00:53:22,200
-it's a field for composers.
+it's a field day for composers.
 
 00:53:22,300 --> 00:53:26,200
 There can be now a fifth of fifth of fifth of fifth;
@@ -1824,7 +1824,7 @@ whether proceeding upwards, let's say from the low C,
 G, D, A, E, B, F#, C#, G#, Eb, Bb, F, C.
 
 00:53:48,300 --> 00:53:50,200
-That's again C,  believe or not that?
+That's again C,  believe it or not that?
 
 00:53:52,300 --> 00:53:54,200
 Or proceeding downwards, starting from that
@@ -1842,7 +1842,7 @@ that's how we got our twelve different tones of our chromatic scale.
 Because if you take all those twelve of the circle of fifths,
 
 00:54:17,300 --> 00:54:21,200
-and put them together in a scale order, you'll get this.
+and put them together in scale order, you'll get this.
 
 00:54:23,300 --> 00:54:28,200
 And what's more those twelve notes generate a circle of twelve different keys,
@@ -1875,7 +1875,7 @@ sub-dominants, and super-tonics and new dominants and new tonics,
 and we can now modulate as freely as we want, as chromatically as we want,
 
 00:55:31,300 --> 00:55:35,200
-and stil have complete tonal control.
+and still have complete tonal control.
 
 00:55:35,300 --> 00:55:46,200
 This great system of tonal controls was perfected and codified by Bach, J.S.Bach,
@@ -1905,7 +1905,7 @@ that was able to continue without remarkable changes for almost a century;
 and this roughly a hundred years became a golden age.
 
 00:56:22,300 --> 00:56:28,200
-This is not to say that there weren't drastic changes in style and form during those hundrend of years.
+This is not to say that there weren't drastic changes in style and form during those hundrend years.
 
 00:56:28,300 --> 00:56:33,200
 It's after all this golden age saw emergence of a whole new Rococo style;
@@ -1929,7 +1929,7 @@ Right now, we are limiting our investigation to phonology;
 and in these terms, we can see the peak attained by Bach,
 
 00:57:01,300 --> 00:57:08,200
-continuing as s kind of a plateau, level and lofty right into the music of Beethoven.
+continuing as a kind of a plateau, level and lofty right into the music of Beethoven.
 
 00:57:08,300 --> 00:57:15,200
 Now at this point, I'd like to invite you to listen with me to one of the supreme examples of this golden age:
@@ -1965,7 +1965,7 @@ chromaticism and diatonicism, there is distiled the essence of ambiguity of all 
 This word "ambiguity" may seem to be the most unlikely word
 
 00:58:11,300 --> 00:58:15,200
-to use in speaking of a golden age composers like Mozart,
+to use in speaking of a golden age composer like Mozart,
 
 00:58:15,300 --> 00:58:18,200
 a master of clarity and precision.
@@ -2064,12 +2064,12 @@ Did you hear those stable consecutive fifths striding inexorably from domanmints
 Dominant-tonic, Dominant-tonic, Dominant-tonic.
 
 01:01:06,300 --> 01:01:14,200
-While above the melodical line descends by chromatic half steps into another region of Ab major.
+While above the melodical line descends by chromatic half steps into the nether regions of Ab major.
 
 01:01:14,300 --> 01:01:19,200
-There are the classical balances we are talking about: chromatic wandering on the top,
+There's that the classical balance we are talking about: chromatic wandering on the top,
 
-01:01:22,000 --> 01:01:25,200
+01:01:21,000 --> 01:01:25,200
 but firmly supported by the tonic-dominant structure underneath.
 
 01:01:28,300 --> 01:01:33,200
@@ -2132,14 +2132,14 @@ the original home soil.
 01:02:58,300 --> 01:03:02,200
 And he is completely free to make this journey as chromatically as he wishes,
 
-01:03:03,203 --> 01:03:06,200
+01:03:02,220 --> 01:03:06,200
 his fantacy is totally released; it's a development section.
 
 01:03:06,300 --> 01:03:08,200
-Free-willing to act!
+Freewheeling to act!
 
 01:03:08,300 --> 01:03:15,200
-But even here, the basic diatonic laws contain and control that free willing,
+But even here, the basic diatonic laws contain and control that freewheeling,
 
 01:03:15,300 --> 01:03:17,200
 passion and fantacy.
@@ -2193,7 +2193,7 @@ Listen to this creepy crawly chromaticism.
 We are back to our old so gratifying and welcome recapitulation in G minor.
 
 01:04:52,300 --> 01:04:59,200
-Now I must point out that these adventures are much more complex and sutle than I made them sound;
+Now I must point out that these adventures are much more complex and subtle than I made them sound;
 
 01:04:59,300 --> 01:05:02,200
 the procedure is not always exactly by fifths;
@@ -2235,7 +2235,7 @@ Mozart can't resist just before the end one of his charming chromatic excursions
 But instantly it all writes itself in the classical tonic-dominant cadence.
 
 01:06:22,300 --> 01:06:26,200
-But the most breath-taking chromatic trip of all, occurs in the final movement,
+But the most breath-taking chromatic trip of all occurs in the final movement,
 
 01:06:26,300 --> 01:06:28,200
 which begins as you remember
@@ -2250,13 +2250,13 @@ But then again comes the development section, and all hell breaks loose.
 Do you realise that wild and tonal sonic passage
 
 01:06:53,300 --> 01:06:59,200
-contains all the twelve chromatic tones except the tonic G.
+contains every one of the twelve chromatic tones except the tonic G.
 
 01:06:59,300 --> 01:07:05,200
 What an inspired idea! All the notes except the tonic.
 
-01:07:05,300 --> 01:07:15,200
-It could easily pass for 20th century music if we didn't already know that it was Mozart.
+01:07:09,300 --> 01:07:15,200
+It could easily pass for 20th century's music if we didn't already know that it was Mozart.
 
 01:07:15,300 --> 01:07:21,200
 But event that explosion of chromaticism is explainable in terms of the circle of fifths.
@@ -2271,9 +2271,9 @@ But take my words for it that outburst of chromatic rage
 is classically contained and so is the climax of this development section,
 
 01:07:33,300 --> 01:07:40,200
-which finds itself suddenly in the key of, it's not so sudden, in key of C# minor.
+which finds itself suddenly in the key of, it's not so sudden, in the key of C# minor.
 
-01:07:40,300 --> 01:07:48,200
+01:07:43,300 --> 01:07:48,200
 C# minor which is as far away as you can get from the home key of G minor,
 
 01:07:48,300 --> 01:07:51,200
@@ -2286,7 +2286,7 @@ And again believe me all these phonological arrivals and departures,
 to and from the most distantly remote areas,
 
 01:08:02,300 --> 01:08:08,200
-operating in the smoothly most Mozartian way under perfect diatonic control.
+operating in the smoothest, most Mozartian way under perfect diatonic control.
 
 01:08:08,300 --> 01:08:11,200
 Well, what is all this add up to?
@@ -2334,7 +2334,7 @@ overcome by despair because why had I been
 talking my guts out for an hour and a half on human brotherhood and universality
 
 01:40:58,300 --> 01:41:09,200
-only to have this kind of despicable disproof of humanbrotherhood flown in our faces.
+only to have this kind of despicable disproof of human brotherhood thrown in our faces.
 
 01:41:10,300 --> 01:41:16,200
 And when I came back, and we all came back, and so many of the audiences did come back.
@@ -2352,7 +2352,7 @@ I must say that my faith was restored, and doubled;
 not only by this incredible piece of music,
 
 01:41:35,300 --> 01:41:42,200
-which I guess one have to point to a work that symbolised in itself the
+which I guess if one have to point to a work that symbolised in itself the
 
 01:41:42,300 --> 01:41:49,200
 essence of the whole fustian experience of man,
@@ -2361,13 +2361,13 @@ essence of the whole fustian experience of man,
 since the Renaissance; this will be it.
 
 01:41:55,300 --> 01:42:01,200
-But also because of the number of the audiences that waited it out,
+But also because of the number of the audience that waited it out,
 
 01:42:01,300 --> 01:42:06,200
 and came back, and listened to it. Terribly moved.
 
 01:42:07,300 --> 01:42:13,200
-Of course, I wouldn't be so upset if the interruption had been come during my talk,
+Of course, I wouldn't have been so upset if the interruption had come during my talk,
 
 01:42:13,205 --> 01:42:19,200
 but interrupt Mozart, which were that extraordinary
@@ -2385,7 +2385,7 @@ But as I say my faith was restored, just to hear it;
 and just to hear it with those people, and through them.
 
 01:42:43,300 --> 01:42:50,200
-So I even feel more confident over what I was trying to say in the beginning
+So I feel even more confident over what I was trying to say in the beginning
 
 01:42:50,300 --> 01:42:52,200
 than I had when wrote it.
@@ -2394,7 +2394,7 @@ than I had when wrote it.
 Just a short word now about our subject next time, which will be syntax.
 
 01:43:01,300 --> 01:43:06,200
-If you remember the second of the three the linguistic departments.
+If you remember the second of the three linguistic departments.
 
 01:43:07,300 --> 01:43:10,200
 Musical and linguistic syntax,
@@ -2412,7 +2412,7 @@ And then we'll be ready to understand the semantic problems
 of music from Mozart to the present.
 
 01:43:26,300 --> 01:43:35,200
-And hopefully come closer and closer to understanding, and even maybe answering Ive's unanswered question.
+And hopefully come closer and closer to understanding, and maybe even answering Ive's unanswered question.
 
 01:43:35,300 --> 01:43:37,200
 Thank you.
