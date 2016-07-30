@@ -140,7 +140,7 @@ Only it is not quite the same question as it was then, and so the purpose of the
 
 36
 00:03:50,000 --> 00:03:58,500
-to redefine it, even to guess at the answer to whither music, we must first ask whence(?) music, what music, whose music.
+to redefine it, even to guess at the answer to whither music, we must first ask whence music, what music, whose music.
 
 37
 00:03:59,000 --> 00:04:04,500
@@ -156,7 +156,7 @@ Let me start with a particularly nostalgic and vivid recollection from my years 
 
 40
 00:04:18,000 --> 00:04:24,500
-The time back in 1937, when I first heard a recording of Alvin Coplin's piano variations,
+The time back in 1937, when I first heard a recording of Aaron Copland's piano variations,
 
 41
 00:04:25,000 --> 00:04:32,500
@@ -184,7 +184,7 @@ So I learned it and taught it to him and he taught it back to me, and we analyse
 
 47
 00:05:04,000 --> 00:05:11,500
-This is now just a sentimental anecdote, because as we were analysing the Colplin variations I made a startling discovery,
+This is now just a sentimental anecdote, because as we were analysing the Copland variations I made a startling discovery,
 
 48
 00:05:12,000 --> 00:05:17,500
@@ -236,7 +236,7 @@ that there must be some deep primal reason why these discrete structures of the 
 
 60
 00:06:38,000 --> 00:06:47,500
-should be at the very heart of such disparate musics as those of Bach, Colplin, Stravinsky, Ravel and the UdeShanka(?) dance company.
+should be at the very heart of such disparate musics as those of Bach, Copland, Stravinsky, Ravel and the UdeShanka(?) dance company.
 
 61
 00:06:48,000 --> 00:06:55,500
@@ -376,7 +376,7 @@ It is precisely for this inter-disciplinary reason that I'm so attracted by the 
 
 95
 00:10:45,000 --> 00:10:54,500
-(quite not)??? as the study of musical linguistics, just as there already exist as a psyco-linguistics, and a socio-linguistics.
+Why not the study of musical linguistics, just as there already exist a psyco-linguistics, and a socio-linguistics?
 
 96
 00:10:55,000 --> 00:11:06,500
@@ -391,7 +391,7 @@ One phonology, two syntax, and three semantics.
 Phonology, syntax, semantics, these are three departments of linguistics and they point the way for our musical investigations as well.
 
 99
-00:11:24,000 --> 00:11:33,500
+00:11:23,600 --> 00:11:33,500
 In this first lecture, we will oriented phonologically, examining both language and music from a most fundamental point of view that of sound itself;
 
 100
@@ -399,11 +399,11 @@ In this first lecture, we will oriented phonologically, examining both language 
 the stuff of which verbal and musical utterences are made.
 
 101
-00:11:39,000 --> 00:11:43,500
+00:11:39,000 --> 00:11:44,000
 And that should give us a solid base to build on, so that in our next session we can plunge into syntax,
 
 102
-00:11:44,000 --> 00:11:48,500
+00:11:44,200 --> 00:11:48,500
 the actual structures that arise from that phonologic stuff.
 
 103
@@ -416,14 +416,14 @@ Semantics can be seen as the natural result of adding phonology and syntax toget
 
 105
 00:12:08,000 --> 00:12:18,500
-And the resultant semantic enquiry will bring us around back to Ives unanswered question whither music in our time.
+And the resultant semantic enquiry will inevitably bring us around back to Ives unanswered question whither music in our time.
 
 106
 00:12:19,000 --> 00:12:24,500
 And now you can see why I became so excited when I began reading the new linguistics,
 
 107
-00:12:25,000 --> 00:12:36,500
+00:12:24,600 --> 00:12:36,500
 which postulated the notion of innate linguistic competence, because suddenly my old under-graduated notion of a universal muscial grammar was re-animated.
 
 108
@@ -944,7 +944,7 @@ The answer to the question why just those notes,
 
 00:28:33,580 --> 00:28:40,500
 and eventually to the question why those notes in Mozart,
-and why those notes in Colplin, or in Schönberg, or whoever.
+and why those notes in Copland, or in Schönberg, or whoever.
 
 00:28:40,580 --> 00:28:47,500
 And in having an answer, we musicians have a singular advantage over the linguists who ask their question:
