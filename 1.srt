@@ -690,12 +690,15 @@ All the Romance languages... so on the Germanic.... Slavic... Hebrew ... Navajo,
 00:20:02,000 --> 00:20:08,500
 and Japanese and Chinese, they call her Mama.
 
+174
 00:20:09,000 --> 00:20:13,500
 Well, that was a small triumph. And then I began expanding.
 
+175
 00:20:14,000 --> 00:20:20,500
 What about "Ma" plus "L"? Say, "mal". Well, now there's a proto syllable for you.
 
+176
 00:20:21,000 --> 00:20:28,500
 My first association, of course, was with all the familiar words connoting badness: "malo", "male", "molve".
 
@@ -817,7 +820,7 @@ and so we intensify the ictus by prolonging it -- "ma--"
 And lo and behold we are singing; music is born; the syllable has become a note.
 
 00:24:23,000 --> 00:24:25,500
-"ma--" just eliminate the glide;
+"ma--" just eliminating the glide;
 
 00:24:26,000 --> 00:24:33,500
 or to use the technical jargon of our time: the morpheme is re-written as a pitch event.
@@ -847,16 +850,16 @@ our eyebrows go up with anticipation; our hearts pound with passion; and fear af
 And in the sense that music may express those affects it is going on,
 
 00:25:23,000 --> 00:25:26,500
-then it must indeed be an universal language.
+then it must indeed be a universal language.
 
 00:25:27,000 --> 00:25:31,500
 Maybe even a divine one to invoke yet another cliche.
 
 00:25:32,000 --> 00:25:36,500
-I have often thought that if it's literally true that in the begining was the word,
+I have often thought that if it's literally true that in the beginning was the word,
 
 00:25:37,000 --> 00:25:39,500
-then it must have been a sound word.
+then it must have been a song word.
 
 00:25:40,000 --> 00:25:46,500
 The Bible tells us the whole creation story not only verbally, but in terms of verbal creation:
@@ -868,21 +871,21 @@ God said let there be light. God said let there be a firmament. He created verba
 Can you imagine God saying just like that? "Let there be light." as if ordering lunch;
 
 00:26:01,000 --> 00:26:12,500
-or even in the original language .... I've always had a private fantacy of God singing these two blazing words.
+or even in the original language .... I've always had a private fantacy of God singing those two blazing words.
 
 00:26:13,000 --> 00:26:20,500
 Now that could really have done it; music could have caused light to break forth.
 
-00:26:21,000 --> 00:26:24,500
+00:26:20,600 --> 00:26:24,500
 But all I have just done is to prolong the ictus again.
 
-00:26:25,000 --> 00:26:30,500
+00:26:24,600 --> 00:26:30,500
 What I have created is simply hightened speech, which was seemed to corroborate yet another cliche
 
-00:26:31,000 --> 00:26:37,500
+00:26:30,600 --> 00:26:37,500
 about music begining where language leaves off, I think Schopenhauer, that one.
 
-00:26:38,000 --> 00:26:44,500
+00:26:37,600 --> 00:26:44,500
 In other words, if the theory of monogenesis is valid, and speech indeed has common origins;
 
 00:26:45,000 --> 00:26:48,500
@@ -891,8 +894,8 @@ and if the hightening of that speech produces music,
 00:26:49,000 --> 00:26:54,500
 then music may also be said to have common origins; and is therefore universal
 
-00:26:55,000 --> 00:26:59,500
-whether the note issue from the Mouth of God or from that hungery infant.
+00:26:54,600 --> 00:26:59,500
+whether the note issue from the Mouth of God or from that hungry infant.
 
 00:27:00,000 --> 00:27:06,500
 But where do these notes come from? Why do I ears select certain notes and not others.
@@ -907,7 +910,7 @@ Two very special notes, which children also use to call one another.
 Jerry, Doris, whatever!
 
 00:27:26,000 --> 00:27:31,500
-And which are often used by them in their sing games. Little Sally Water.
+And which are often used by them in their singing games. Little Sally Water.
 
 00:27:32,000 --> 00:27:36,500
 That's the same two notes, only now expanded to three notes.
@@ -936,45 +939,48 @@ and one which can be identified and explained in a none-vacuous way.
 00:28:21,000 --> 00:28:29,500
 I want to take a little time to do this carefully because in the explanation lies the key to musical universality in general.
 
-00:28:30,000 --> 00:28:33,500
+00:28:29,580 --> 00:28:33,500
 The answer to the question why just those notes,
 
-00:28:33,800 --> 00:28:40,500
+00:28:33,580 --> 00:28:40,500
 and eventually to the question why those notes in Mozart,
 and why those notes in Colplin, or in Schönberg, or whoever.
 
-00:28:41,800 --> 00:28:47,500
+00:28:40,580 --> 00:28:47,500
 And in having an answer, we musicians have a singular advantage over the linguists who ask their question:
 
 00:28:47,800 --> 00:28:51,500
-why just those sound in human speech?
+why just those sounds in human speech?
 
-00:28:52,800 --> 00:29:00,500
-And they seek the answers by constructing a very complex hypothesis, which is still very much in the working stage,
+00:28:52,800 --> 00:28:56,500
+And they seek the answers by constructing a very complex hypothesis,
 
-00:29:01,000 --> 00:29:04,500
+00:28:56,800 --> 00:29:00,500
+which is still very much in the working stage,
+
+00:29:00,600 --> 00:29:04,500
 subject to proof or disproof, amplification or derision.
 
 00:29:05,000 --> 00:29:13,500
 But we musicians are luckier; we have the built-in, pre-ordained, universal, known as the harmonic series.
 
-00:29:14,000 --> 00:29:18,500
+00:29:13,600 --> 00:29:18,500
 To those of you who know all about the harmonic series, I beg your indulgence for a few minutes,
 
 00:29:19,000 --> 00:29:22,500
 so that I can sketch it out for those who don't.
 
 00:29:23,000 --> 00:29:28,500
-This accoutic phenomena, called the harmonic series or overtone series,
+This accoutic phenomenon, called the harmonic series or overtone series,
 
-00:29:28,800 --> 00:29:33,500
+00:29:28,580 --> 00:29:33,500
 is not hard to understand, if you remember the basic high school fact:
 
-00:29:34,800 --> 00:29:38,500
+00:29:33,580 --> 00:29:38,500
 that all sounds are produced by vibrating bodies, which send out waves.
 
 00:29:39,000 --> 00:29:47,500
-If such vibrating body is irregularly constituted like this floor, or this piano,
+If such a vibrating body is irregularly constituted like this floor, or this piano,
 
 00:29:48,000 --> 00:29:55,500
 it will emit waves which are irregular, and our ears will perceive them as noise
@@ -990,7 +996,7 @@ it will emit regular waves and we hear them as a musical tone.
 Of course the source does not have to be a string, it can be a column of air as in a clarinet,
 
 00:30:17,000 --> 00:30:23,500
-or a column of steel as in a tube of bell, or a stretched animal hide as in a kettle drum.
+or a column of steel as in a tubular bell, or a stretched animal hide as in a kettle drum.
 
 00:30:24,000 --> 00:30:30,500
 But whatever it is it produces what's called energy in vibratory motion, that is the official language,
@@ -999,13 +1005,13 @@ But whatever it is it produces what's called energy in vibratory motion, that is
 by being beaten, blown, plucked, struck or frictionised with a bow.
 
 00:30:38,000 --> 00:30:41,500
-Let's settle with a piano string, let's say this one,
+Let's settle for a piano string, let's say this one,
 
 00:30:42,000 --> 00:30:47,500
 which is of a particular length, tension, thickness and density.
 
 00:30:48,000 --> 00:30:55,500
-and when struck by its hammer produces a sound wave of a frequency of 132 vibrations per second,
+and when struck by its hammer produces sound waves of a frequency of 132 vibrations per second,
 
 00:30:56,000 --> 00:30:58,500
 and is known to the world as the note C.
@@ -1017,10 +1023,10 @@ Now comes the interesting part, if I sit at the piano and play that low C,
 you may think you are hearing only that one tone: a dark, rich, base note.
 
 00:31:13,000 --> 00:31:16,500
-But you are not, you are simultaneously hearing a whole series of higher tones,
+But you are not, you are simultaneously hearing a whole series of higher tones
 
 00:31:17,000 --> 00:31:19,500
-but are sounding at the same time.
+that are sounding at the same time.
 
 00:31:21,000 --> 00:31:29,500
 These are arranged in an order preordained by nature and ruled by universal physical laws.
@@ -1031,7 +1037,7 @@ If this is news to you, I hope it's good news.
 00:31:31,600 --> 00:31:35,500
 Because all these upper notes of which you may be unaware,
 
-00:31:36,000 --> 00:31:41,500
+00:31:35,570 --> 00:31:41,500
 result from a phenomenon of nature, whereby any sound producing source,
 
 00:31:42,000 --> 00:31:46,500
@@ -1052,20 +1058,20 @@ and into three thirds and four quarters and so on.
 00:32:09,000 --> 00:32:13,500
 And the smaller those segments are, the faster they vibrate,
 
-00:32:14,000 --> 00:32:19,500
+00:32:13,600 --> 00:32:19,500
 producing higher and higher frequencies, and therefore higher and higher tones,
 
-00:32:20,000 --> 00:32:24,500
-overtones; or harmonics, since they are sometimes called.
+00:32:19,580 --> 00:32:24,500
+overtones; or harmonics, says they are sometimes called.
 
 00:32:25,000 --> 00:32:28,500
 And these overtones or harmonics are all sounding together
 
 00:32:29,000 --> 00:32:32,500
-with the fundamental sound of the full string.
+with the fundamental sound of the full string;
 
-00:32:33,000 --> 00:32:36,500
-And this is a basic principle by which the entire harmonic theory is generated.
+00:32:32,580 --> 00:32:36,500
+this is a basic principle by which the entire harmonic theory is generated.
 
 00:32:37,000 --> 00:32:39,500
 starting on any fundamental tone.
@@ -1073,19 +1079,19 @@ starting on any fundamental tone.
 00:32:40,000 --> 00:32:43,500
 Now if you already knew all that from high school physics,
 
-00:32:44,000 --> 00:32:49,500
-then you'll also know that these overtones are naturally less apparent to the ear than the fundamental,
+00:32:43,580 --> 00:32:49,000
+you'll also know that these overtones are naturally less apparent to the ear than the fundamental,
 
-00:32:49,600 --> 00:32:51,500
+00:32:49,200 --> 00:32:51,500
 which is in this case low C.
 
 00:32:52,000 --> 00:32:56,500
 And in fact they sound more and more faintly as they go higher.
 
-00:32:57,000 --> 00:33:02,500
-Now any note I strike will contain its own series of overtones.
+00:32:56,550 --> 00:33:02,500
+Any note I strike will contain its own series of overtones.
 
-00:33:03,000 --> 00:33:08,500
+00:33:02,560 --> 00:33:08,500
 But the lower the note I strike, the more abundantly audible will be its homarnic series,
 
 00:33:08,600 --> 00:33:12,500
@@ -1104,7 +1110,7 @@ The first overtone of the series according to the laws of physics
 has to be exatly an octive higher than the fundamental C we've been hearing.
 
 00:33:35,000 --> 00:33:39,500
-In other words, this has to be this C, an octive higher.
+In other words, this got to be this C, an octive higher.
 
 00:33:40,000 --> 00:33:44,500
 Now if I silently press down the key of this higher C,
@@ -1163,7 +1169,7 @@ are really the same note C but an octive apart.
 00:35:11,000 --> 00:35:16,500
 But this new overtone G is a fifth away from C.
 
-00:35:17,000 --> 00:35:22,300
+00:35:16,600 --> 00:35:22,300
 So we now have two different tones. And once they are established in our ears,
 
 00:35:22,500 --> 00:35:26,500
@@ -1172,10 +1178,10 @@ we are in possession of the key to the whole tonal system,
 00:35:27,500 --> 00:35:31,200
 a system based on the concept of tonic and dominant.
 
-00:35:31,300 --> 00:35:33,500
+00:35:31,300 --> 00:35:33,000
 Tonic and dominant.
 
-00:35:33,700 --> 00:35:41,500
+00:35:33,200 --> 00:35:41,500
 This C represents the idea of tonic, which has the function of establishing the tonal center of any given key.
 
 00:35:44,000 --> 00:35:50,100
@@ -1187,7 +1193,7 @@ through a special relationship it enjoys with the tonic, owing to their proximit
 00:35:59,000 --> 00:36:01,000
 But more of that later.
 
-00:36:00,100 --> 00:36:06,500
+00:36:01,100 --> 00:36:06,500
 Right now onto the next overtone which is again a C,
 
 00:36:07,000 --> 00:36:09,500
@@ -1218,13 +1224,13 @@ And the new overtone will be this note E. Listen.
 It's a bit fainter, but it's there for all to hear. Shall I try it again?
 
 00:36:55,000 --> 00:37:03,500
-Hear it way back there? One last time. Clear.
+Hear it way back there? One last time. It's clear.
 
 00:37:04,000 --> 00:37:07,200
 And there you have the first four overtones of the series:
 
 00:37:07,300 --> 00:37:14,500
-fundamental plus one two three four, three of which are of different pitches,
+A fundamental plus one two three four, three of which are of different pitches,
 
 00:37:15,000 --> 00:37:22,500
 those three. Now it must be obvious to you that these three notes rearranged in scaler order,
@@ -1232,639 +1238,1181 @@ those three. Now it must be obvious to you that these three notes rearranged in 
 00:37:23,000 --> 00:37:29,500
 constitute what is known as the major triad, which is the very nucleus,
 
-00:37:30,000 --> 00:37:32,100
-the cornerstonec of most of the music we hear from day to day,
+00:37:29,600 --> 00:37:32,100
+the cornerstone of most of the music we hear from day to day,
 
 00:37:32,300 --> 00:37:36,500
 whether it's a symphony or a hymn, or a blues.
 
-And this triad with its tonic-dominant relationship, plus the third sandwiched between,
+00:37:36,600 --> 00:37:41,200
+And this triad with its tonic-dominant relationship,
 
+00:37:41,300 --> 00:37:44,500
+plus the third sandwiched between,
+
+00:37:44,600 --> 00:37:50,000
 this triad is the fundation of Western tonal music as it developed
 
-of the last three centuries or so, along with the development of our western culture
+00:37:50,100 --> 00:37:55,200
+of the last three centuries or so, along with the development of our western culture in general.
 
-in general. Let's not make the mistake so many people make
+00:37:55,300 --> 00:37:59,200
+Let's not make the mistake that so many people make
 
-of regarding this triad as the basic universal. That's a miscomprehension that's far
+00:37:59,300 --> 00:38:03,200
+of regarding this triad as the basic universal.
 
-too common, in that it fails to recognise that our accidental culture is only one
+00:38:03,300 --> 00:38:08,200
+That's a miscomprehension that's far too common,
 
-of many world's cultures, in spite of its current prevalence and its worldwide influence;
+00:38:08,250 --> 00:38:12,200
+in that it fails to recognise that our accidental culture is only one of many world's cultures,
 
+00:38:12,250 --> 00:38:16,200
+in spite of its current prevalence and its worldwide influence;
+
+00:38:16,311 --> 00:38:20,200
 and in spite of the fact that it thinks it's the only important culture.
 
-A perfect example of this, a fact of this misconception arises with the very next overtone
+00:38:20,311 --> 00:38:26,200
+A perfect example of this, a fact of this misconception
 
-in the series, which is a stranger to the western tonal culture.
+00:38:26,311 --> 00:38:29,200
+arises with the very next overtone in the series,
 
-In fact this next overtone does not even appear on the piano, which means I cannot
+00:38:29,250 --> 00:38:31,200
+which is a stranger to the western tonal culture.
 
-demonstrate it for you as I have for the preceding ones.
+00:38:31,250 --> 00:38:35,200
+In fact this next overtone does not even appear on the piano,
 
+00:38:35,250 --> 00:38:39,200
+which means I cannot demonstrate it for you as I have for the preceding ones.
+
+00:38:39,411 --> 00:38:45,200
 More exactly stated, it is not to be found on the piano in its natural, pure form
 
+00:38:45,411 --> 00:38:49,200
 as it derives by physical law from that fundamental C string.
 
+00:38:49,411 --> 00:38:52,200
 Let me digress a moment to tell you why.
 
-You see this piano, like all keyboard instruments, is a tempered instrument, which
+00:38:52,450 --> 00:38:58,000
+You see this piano, like all keyboard instruments, is a tempered instrument
 
-means its notes have been tempered or "tampered with" (I don't mean a joke by that,
+00:38:58,050 --> 00:39:02,100
+which means its notes have been tempered or "tampered with"
 
-just mean to clarify the word).
+00:39:02,211 --> 00:39:06,100
+(I don't mean a joke by that, just mean to clarify the word).
 
+00:39:06,211 --> 00:39:11,100
 So that each one of them, each one of these notes can serve its function in all
 
-twelve keys at once. This readjustment in tuning became inevitable when music
+00:39:11,150 --> 00:39:14,100
+twelve keys at once.
 
-reached its tonal adulthood, around 1700; and found that it didn't have to remain in
+00:39:14,411 --> 00:39:20,100
+This readjustment in tuning became inevitable when music reached its tonal adulthood,
 
-one key from the beginning to the end of a piece, but can modulate from one key
+00:39:20,411 --> 00:39:24,000
+around 1700; and found that it didn't have to remain in one key
 
-to another in the course of it; but the notes deriving naturally from
+00:39:24,005 --> 00:39:27,000
+from the beginning to the end of a piece,
 
-the harmonic series will work only in one key at a time. Do you follow that?
+00:39:27,205 --> 00:39:30,200
+but can modulate from one key to another in the course of it;
 
-One key at a time. That is what in tune in one key is likely to be out of tune in another.
+00:39:30,205 --> 00:39:34,400
+but the notes deriving naturally from the harmonic series
 
-Would you believe that if this piano were to encompass only natural untempered tones, this single
+00:39:34,505 --> 00:39:38,400
+will work only in one key at a time. Do you follow that?
 
-octive space would have to contain 77 different keys? Well, you can understand that a compromise has
+00:39:38,505 --> 00:39:43,400
+One key at a time. That is what in tune in one key
 
-to be made somewhere, and that "somewhere" was the moment in history when the rapid development
+00:39:43,605 --> 00:39:47,400
+is likely to be out of tune in another.
 
-of tonal harmony coinciding with the equally rapid development of the keyboard instruments with
+00:39:48,000 --> 00:39:55,400
+Would you believe that if this piano were to encompass only natural untempered tones,
 
-their fixed, unchangeable tones. And that is how the tempered clavier chord came to be, to say
+00:39:55,410 --> 00:39:57,400
+this single octive space
 
-nothing of this Baldwin Grand. And that's why I can't play you this next overtone.
+00:39:57,410 --> 00:40:02,400
+would have to contain 77 different keys?
 
-But if we actually approach it pianistically in our ascent of the harmonic series, we find
+00:40:02,610 --> 00:40:05,400
+Well, you can understand that a compromise has to be made somewhere,
 
-it somewhere around here, lieing in the crack, between this B flat and this A; it's one of those blue notes.
+00:40:05,610 --> 00:40:08,400
+and that "somewhere" was the moment in history
 
+00:40:08,610 --> 00:40:11,400
+when the rapid development of tonal harmony
+
+00:40:11,610 --> 00:40:18,400
+coinciding with the equally rapid development of the keyboard instruments with their fixed, unchangeable tones.
+
+00:40:18,610 --> 00:40:22,400
+And that is how the tempered clavier chord came to be,
+
+00:40:22,610 --> 00:40:24,400
+to say nothing of this Baldwin Grand.
+
+00:40:24,610 --> 00:40:28,400
+And that's why I can't play you this next overtone.
+
+00:40:28,610 --> 00:40:32,400
+But if we actually approach it pianistically
+
+00:40:32,410 --> 00:40:39,400
+in our ascent of the harmonic series, we find it somewhere around here,
+
+00:40:39,500 --> 00:40:43,400
+lying in the crack, between this B flat
+
+00:40:43,500 --> 00:40:48,400
+and this A; it's one of those blue notes.
+
+00:40:52,000 --> 00:40:59,400
 And that blue note can be construed by the human ear as either the higher version of the note -- B flat;
 
-or the lower version A. In either case it requires a little push up or down to be accommodated on the piano.
+00:40:59,500 --> 00:41:01,400
+or the lower version A.
 
+00:41:01,500 --> 00:41:08,400
+In either case it requires a little push up or down to be accommodated on the piano.
+
+00:41:08,500 --> 00:41:11,000
 But whichever way we construe it, it becomes our newest overtone.
 
-So now we are equipped with four different overtones: the C plus the G plus the E
+00:41:11,010 --> 00:41:16,000
+So we are now equipped with four different overtones: the C
 
+00:41:16,010 --> 00:41:18,000
+plus the G plus the E
+
+00:41:18,050 --> 00:41:22,000
 plus that blue note, a dubious A.
 
-Or if we rearrange them in scaler order, C-E-G and sort of A, and here we hear a real musical linguistic
+00:41:22,050 --> 00:41:25,000
+Or if we rearrange them in a scaler order,
 
-universal, because now we can understand and explain that famous worldwide teasing chat: Oly Oly Anfrey;
+00:41:25,100 --> 00:41:30,000
+C-E-G and sort of A,
 
+00:41:30,100 --> 00:41:36,000
+and here we hear a real musical linguistic universal,
+
+00:41:36,300 --> 00:41:41,000
+because now we can understand and explain that famous worldwide teasing chat:
+
+00:41:41,300 --> 00:41:45,000
+Oly Oly Anfrey;
+
+00:41:45,300 --> 00:41:50,000
 because all it is is a constellation of those first four different overtones,
 
-with the tonic omitted, rather implied.
+00:41:50,300 --> 00:41:55,000
+with the tonic omitted, or rather implied.
 
-You see this tonic C, which is the same note as the fundamental C is heard in the mind's ear,
+00:41:55,100 --> 00:41:57,000
+You see this tonic C,
 
-and only the three new overtones are sound. So these three universal notes are handed us by nature
+00:41:57,300 --> 00:42:01,000
+which is the same note as the fundamental C
 
-on a silver platter. But why are they in this different order?
+00:42:01,300 --> 00:42:06,000
+is heard in the mind's ear, and only the three new overtones are sound.
 
-Because that's the very order in which they appear in the harmonic series. G-E and sort of A and Q-E-D.
+00:42:06,300 --> 00:42:14,300
+And so these three universal notes are handed us by nature on a silver platter.
 
-Now this is a substantive universal, the sort of thing the linguists hunger for, but the likeness of which
+00:42:14,600 --> 00:42:17,300
+But why are they in this different order?
 
-are simply unavailable to them. Indeed, as we ascend further in our harmonic series,
+00:42:18,000 --> 00:42:23,300
+Because that's the very order in which they appear in the harmonic series.
 
+00:42:23,600 --> 00:42:30,800
+G-E and sort of A and Q-E-D
+
+00:42:31,600 --> 00:42:34,300
+Now this is a substantive universal,
+
+00:42:34,600 --> 00:42:37,300
+the sort of thing linguists hunger for,
+
+00:42:37,600 --> 00:42:40,300
+but the likeness of which are simply unavailable to them.
+
+00:42:40,600 --> 00:42:43,000
+Indeed, as we ascend further in our harmonic series,
+
+00:42:43,003 --> 00:42:48,000
 more and more fascinating and incontrovertible universals keep appearing.
 
-For instance this next new overtone is this one, that is the new overtone, is this one D.
+00:42:48,200 --> 00:42:54,300
+For instance this next new overtone is this one, that is the new overtone,
 
-So now we have five different tones to play with, which we again put into scaler order.
+00:42:54,500 --> 00:42:56,300
+is this one D.
 
-And pressto a new universal is given us the 5 notes or pentatonic scale.
+00:42:56,500 --> 00:43:00,300
+So now we have five different tones to play with,
 
-And because of that last dubious last note, the scale can take either of two forms.
+00:43:03,500 --> 00:43:06,300
+which we again put into  scaler order.
 
+00:43:08,500 --> 00:43:15,300
+And presto a new universal is given us the 5 note or pentatonic scale.
+
+00:43:16,500 --> 00:43:22,000
+And because of that dubious last note, the scale can take either of two forms.
+
+00:43:22,005 --> 00:43:27,500
 One culminating in B flat, and the other culminating in A.
 
-Let's opt to the second of these, the lower one, which is by far the most common of the two.
+00:43:27,700 --> 00:43:31,200
+Let's opt to the second of these, the lower one,
 
+00:43:31,300 --> 00:43:33,200
+which is by far the most common of the two.
+
+00:43:36,000 --> 00:43:40,200
 This is humanity's favourite pentatonic scale, and by the way,
 
-this is a scale you can find so easily on your own piano by playing only the black notes.
+00:43:40,400 --> 00:43:46,200
+this is the scale you can find so easily on your own piano by playing only the black notes.
 
-In fact, the universality of this scale is so well-known, I'm sure that you can give me examples from
+00:43:48,000 --> 00:43:52,200,
+In fact, the universality of this scale is so well-known,
 
-all corners of the earth: from Scotland -- pure pentatonic; or from China; or from Africa
+00:43:52,300 --> 00:43:56,200
+that I'm sure you can give me examples of it from all corners of the earth:
 
-and from the American-Indian cultures, and from Eastern Indian cultures
+00:43:56,300 --> 00:44:03,200
+from Scotland -- pure pentatonic;
 
-and from central and south Amerima, and Australia and Finland.
+00:44:03,300 --> 00:44:20,200
+or from China; or from Africa
 
+00:44:21,300 --> 00:44:27,200
+and from the American-Indian cultures, and from Eastern Indian cultures and from central and south Amerima,
+
+00:44:27,300 --> 00:44:30,200
+and Australia and Finland and
+
+00:44:30,300 --> 00:44:33,200
 Well, that's a true musical linguistic universal.
 
+00:44:33,300 --> 00:44:37,200
 But let's be careful about making linguistic analogies.
 
-We could conceivably equate a fundamental tone, such as this C, with the basic morpheme "ma",
+00:44:37,300 --> 00:44:41,200
+We could conceivably equate a fundamental tone, such as this C,
 
-which we discovered before; and then extend the parallel equating the overtones of that
+00:44:42,300 --> 00:44:46,200
+with the basic morpheme "ma", which we discovered before
 
-fundamental C with a set of words evolving from that "ma" syllable.
+00:44:46,300 --> 00:44:52,200
+and then extend the parallel equating the overtones of that fundamental C
 
-Maybe! It's all still speculation. But what appears to be much more convincing is the analogy
+00:44:52,300 --> 00:44:57,200
+with a set of words evolving from that "ma" syllable.
 
-between Chomtsky's innate grammatical competence and the innate musical grammatical competence,
+00:44:57,300 --> 00:45:00,200
+Maybe! It's all still speculation.
 
-which we may all possess universally; that is our in-built capacity to construe those naturally
+00:45:00,300 --> 00:45:03,000
+But what appears to be much more convincing
 
-serialised overtones and to contrue them in different ways.
+00:45:03,020 --> 00:45:07,200
+is the analogy between Chomtsky's innate grammatical competence
 
-Just as the various cultures of the world may have construed basic monogenetic materials and
+00:45:07,300 --> 00:45:14,200
+and the innate musical grammatical competence, which we may all possess universally;
 
-constructed out of them thousands of particular grammars or languages, all different from one another.
+00:45:14,230 --> 00:45:20,200
+that is our in-built capacity to construe those naturally serialised overtones
 
+00:45:20,230 --> 00:45:23,200
+and to contrue them in different ways.
+
+00:45:23,300 --> 00:45:30,200
+Just as the various cultures of the world may have construed basic monogenetic materials
+
+00:45:30,230 --> 00:45:35,200
+and constructed out of them thousands of particular grammars or languages,
+
+00:45:35,230 --> 00:45:37,200
+all different from one another.
+
+00:45:37,230 --> 00:45:45,200
 Analagously, varied human cultures can construe this pentatonic scale in different ways,
 
+00:45:45,300 --> 00:45:52,200
 depending for example on which of the five notes is taken to be the tonal center.
 
-For example this one: that's one way.
+00:45:52,300 --> 00:45:54,200
+For example this one:
 
-Or this one: you see how it makes the whole different pentatonic but the same five notes.
+00:45:56,300 --> 00:45:58,200
+that's one way.
 
+00:45:58,300 --> 00:46:00,200
+Or this one:
+
+00:46:02,000 --> 00:46:07,200
+you see how it makes the whole different pentatonic but the same five notes.
+
+00:46:07,300 --> 00:46:11,200
 Or this one, same five notes again but a different scale.
 
+00:46:15,000 --> 00:46:18,200
 And there is always that blue notes to be considered.
 
-If the ear construes it as the upper B flat instead of the lower A, it will give us a whole
+00:46:18,400 --> 00:46:25,200
+If the ear construes it as the upper B flat instead of the lower A,
 
-other pentatonic scale, which produces some beautiful African music.
+00:46:25,400 --> 00:46:28,200
+it will give us a whole other pentatonic scale,
 
-And there are even much more complix processes which we won't go into, but which account for
+00:46:30,400 --> 00:46:34,200
+which produces some beautiful African music.
 
-the existence of the  highly differentiated Japanese pentatonic scale. Does that sound familiar?
+00:46:34,400 --> 00:46:38,000
+And there are even much more complix processes which we won't go into,
 
-Or the unique pentatonic scale of the Balinese music.
+00:46:38,020 --> 00:46:44,200
+but which account for the existence of the highly differentiated Japanese pentatonic scale.
 
+00:46:48,000 --> 00:46:52,200
+Does that sound familiar?
+
+00:46:52,300 --> 00:46:56,200
+Or the unique pentatonic of the Balinese music.
+
+00:47:02,000 --> 00:47:08,200
 But enough of pentatonics. I think we have seen enough of the way the harmonic series uprates,
 
-to recognise the fact that as we ascend the series, always find new tones to be added (Oops..).
+00:47:08,400 --> 00:47:13,200
+to recognise the fact that as we ascend the series,
 
-There we are, to be added to our collection, we can eventually account for six and seven notes
+00:47:13,400 --> 00:47:17,200
+always finding new tones to be added (Oops..).
 
-scales including Greek modes and church modes, and the diatonic scales both major and minor,
+00:47:17,400 --> 00:47:21,200
+There we are, to be added to our collection,
 
-and eventually all twelve tones of our so-called chromatic scale; which is of course due to
+00:47:21,400 --> 00:47:28,200
+we can eventually account for six and seven notes scales including Greek modes and church modes,
 
-the merit of tempering. We get those equidistant tones.
+00:47:28,400 --> 00:47:34,200
+and the diatonic scales both major and minor, and eventually all twelve tones
 
+00:47:34,230 --> 00:47:38,200
+of our so-called chromatic scale;
+
+00:47:40,400 --> 00:47:44,200
+which is of course due to the merit of tempering,
+
+00:47:45,400 --> 00:47:48,200
+we get those twelve equidistant tones.
+
+00:47:48,400 --> 00:47:55,200
 And you may well ask why just twelve tones. Patience, you'll find out in a minute.
 
+00:47:55,400 --> 00:47:59,200
 But even these twelve tones don't exauhst the potential of the harmonic series;
 
-the upper reaches of the seires contintue to furnish us with intervals even smaller than the
+00:47:59,400 --> 00:48:03,200
+the upper reaches of the seires contintue
 
-half tones that make up our chromatic scale.
+00:48:03,240 --> 00:48:09,200
+to furnish us with intervals even smaller than the half tones that make up our chromatic scale.
 
-Intervals that such as quarter tones, or even thirds and fifths of tones, all of which are still
+00:48:11,500 --> 00:48:17,200
+Intervals such as quarter tones, or even thirds and fifths of tones,
 
-inhabit the areas of experimentation, like electronic research; to say nothing of microtones,
+00:48:17,250 --> 00:48:21,200
+all of which are still inhabit the areas of experimentation,
 
-which are such an essential part of so much oriental music.
+00:48:21,300 --> 00:48:23,200
+like electronic research;
 
-But the overrating fact that emerges from all this is that all music, whether pop, folk, symphonic
+00:48:23,300 --> 00:48:29,200
+to say nothing of microtones, which are such an essential part of so much oriental music.
 
-modal, tonal, atonal, poly-tonal, micro-tonal, well-tempered or ill-tempered, music from the
+00:48:29,300 --> 00:48:32,200
+But the overwriting fact that emerges from all this
 
-distant past or the imminent future, all of it has a common origin in the universal phenomenon
+00:48:32,300 --> 00:48:38,200
+is that all music, whether pop, folk, symphonic
 
-of the harmonic serials. And that is our case for musical monogenesis.
+00:48:38,230 --> 00:48:45,200
+modal, tonal, atonal, poly-tonal, micro-tonal, well-tempered or ill-tempered,
 
-But is it a case necessarily for music universality? Think!
+00:48:45,300 --> 00:48:50,200
+music from the distant past or the imminent future, all of it
 
+00:48:50,300 --> 00:48:56,200
+has a common origin in the universal phenomenon of the harmonic serials.
+
+00:48:56,300 --> 00:48:59,200
+And that is our case for musical monogenesis.
+
+00:48:59,300 --> 00:49:04,200
+But is it necessarily a case for music universality? Think!
+
+00:49:04,300 --> 00:49:10,200
 What about those Hindu Ragas so many people find difficult to comprehend.
 
-Well I suggest a simple answer. In the light of our linguistic analogies, just as the
+00:49:10,300 --> 00:49:12,200
+Well I suggest a simple answer.
 
-grammars of the human languages, even mutually unintelligible ones, may have sprung from the
+00:49:12,300 --> 00:49:20,200
+In the light of our linguistic analogies, just as the grammars of the human languages,
 
-same monogenetic sources, so in the same way, highly varied musical tongues, which are also
+00:49:20,300 --> 00:49:23,200
+even mutually unintelligible ones,
 
-strangers to one another, can be said to have developed out of their common origins.
+00:49:23,300 --> 00:49:27,200
+may have sprung from the same monogenetic sources,
 
-In purely phonological terms, these tongues are tonal languages that have developed out of a
+00:49:27,300 --> 00:49:33,200
+so in the same way, highly varied musical tongues,
 
-universal, naturally ordered, tonal structure.
+00:49:33,300 --> 00:49:39,200
+which are also strangers to one another, can be said to have developed out of their common origins.
 
-Now I trust you realise that all of this has been enormously compressed and undocumented by
+00:49:39,300 --> 00:49:42,200
+In purely phonological terms,
 
-historical musical examples, because that's gonna take all night;
+00:49:42,300 --> 00:49:46,200
+these tongues are tonal languages that have developed out of a universal,
 
+00:49:46,300 --> 00:49:50,200
+naturally ordered, tonal structure.
+
+00:49:51,000 --> 00:49:55,200
+Now I trust you realise that all of this has been enormously compressed
+
+00:49:55,205 --> 00:50:00,200
+and undocumented by historical musical examples, because that's gonna take all night;
+
+00:50:00,300 --> 00:50:06,200
 but this is not a linguistic course; nor is it a history of music course.
 
-What we are trying for is a very high overview of musical development in terms of a vocabulary
+00:50:06,300 --> 00:50:10,200
+What we are trying for is a very high overview
 
-constantly being enriched, by more and more remote and chromatic overtones.
+00:50:10,300 --> 00:50:16,200
+of musical development in terms of a vocabulary constantly being enriched,
 
+00:50:16,300 --> 00:50:20,200
+by more and more remote and chromatic overtones.
+
+00:50:20,300 --> 00:50:28,200
 It's as if we can see the whole of music developing from prehistory to the present in two minutes.
 
+00:50:28,300 --> 00:50:36,200
 Let's again pretend that we're homonids, and the smash hit moment is, let's say Fair Harvard.
 
-Here we are, in our homonid hut crooning, and now maybe our wives and maybe our pre-pubescence sons join in,
+00:50:36,300 --> 00:50:41,200
+Here we are, in our homonid hut crooning,
 
-automatically, we are singing not in unison, but in octives, since men's and women's voices
+00:50:45,300 --> 00:50:52,200
+and now maybe our wives and maybe our pre-pubescence sons join in,
 
-are naturally an octive apart. Now that octive interval,
+00:50:52,300 --> 00:50:56,200
+and automatically, we are singing not in unison, but in octives,
 
-I wish I could sing an octive so I can really show you what I mean. But that octive interval
+00:50:56,230 --> 00:51:00,200
+since men's and women's voices are naturally an octive apart.
 
-happens to be the first interval of the harmonic series as you remember, right?
+00:51:05,300 --> 00:51:11,200
+Now that octive interval, I wish I could sing an octive so I can really show you what I mean.
 
+00:51:11,300 --> 00:51:16,200
+But that octive interval happens to be the first interval of the harmonic series as you remember, right?
+
+00:51:16,300 --> 00:51:24,200
 OK. Now centuries passed and the next interval of the harmonic series is assimilated by humanity,
 
+00:51:24,300 --> 00:51:29,200
 namely the fifth. And now we can be singing this.
 
+00:51:35,300 --> 00:51:40,200
 Now of course this little change brings us forward a mere ten million years,
 
-into the tenth century AD, an interval of fairly sophisticated musical culture.
+00:51:40,300 --> 00:51:46,200
+into the tenth century AD, and into a fairly sophisticated musical culture.
 
-But now we admit the next interval of the series, the fourth; and now we can mix intervals
+00:51:46,300 --> 00:51:50,200
+But now we admit the next interval of the series, the fourth;
 
-of the ocitive and the fifth and the fourth.
+00:51:50,300 --> 00:51:57,200
+and now we can mix intervals of the ocitive and the fifth and the fourth.
 
+00:52:05,300 --> 00:52:08,200
 Now that's beginning to sound like polyphony.
 
+00:52:08,300 --> 00:52:14,200
 And again comes a great leap, as music absorbs the next overtone, the third.
 
+00:52:14,300 --> 00:52:16,200
 And just listen to the difference.
 
-It's a whole new music, richer, melodier, with a new colouristic warmth.
+00:52:20,300 --> 00:52:27,200
+It's a whole new music, richer, mellower, with a new colouristic warmth.
 
-And as we know, this new interval of the third, bacause I like the older sound better,
+00:52:27,300 --> 00:52:30,200
+And as we know, this new interval of the third,
 
-anyway, ah...
+00:52:30,300 --> 00:52:34,200
+bacause I like the older sound better, anyway, ah...
 
-As we know the new interval of the third introduces into music the phenomenon of the triad,
+00:52:34,300 --> 00:52:39,200
+As we know the new interval of the third introduces into music
 
+00:52:39,230 --> 00:52:41,200
+the phenomenon of the triad,
+
+00:52:41,230 --> 00:52:47,200
 so that now Fair Harvard can begin to sound more like its Victorian self.
 
-And so there was born, what we now call, tonal music; a stable tonal language,
+00:52:50,300 --> 00:52:56,200
+And so there was born, what we now call, tonal music;
 
-firmly rooted in the basic notes of the harmonic series:
+00:52:56,300 --> 00:53:03,200
+a stable tonal language, firmly rooted in the basic notes of the harmonic series:
 
-The fundamental and its first different overtone, the fifth; now and for evermore to be known
+00:53:03,300 --> 00:53:07,200
+The fundamental and its first different overtone, the fifth;
 
-as the tonic and the dominant. And that fifth interval really does dominate,
+00:53:07,300 --> 00:53:13,200
+now and for evermore to be known as the tonic and the dominant.
 
-because once this tonic-dominant relationship is established, it's a feel???? day for composers.
+00:53:13,300 --> 00:53:16,200
+And that fifth interval really does dominate,
 
+00:53:16,300 --> 00:53:20,200
+because once this tonic-dominant relationship is established,
+
+00:53:20,300 --> 00:53:22,200
+it's a field for composers.
+
+00:53:22,300 --> 00:53:26,200
 There can be now a fifth of fifth of fifth of fifth;
 
+00:53:26,300 --> 00:53:33,200
 each one of them, a new tonic producing a new dominant, a whole circle of fifths;
 
+00:53:33,300 --> 00:53:38,200
 twelve of them in fact; always winding up with the starting tone;
 
-whether proceeding upwards, let's say
+00:53:38,300 --> 00:53:41,200
+whether proceeding upwards, let's say from the low C,
 
-from the low C, G, D, A, E, B, F#, C#, G#, Eb, Bb, F, C.
+00:53:41,300 --> 00:53:48,200
+G, D, A, E, B, F#, C#, G#, Eb, Bb, F, C.
 
+00:53:48,300 --> 00:53:50,200
 That's again C,  believe or not that?
 
+00:53:52,300 --> 00:53:54,200
 Or proceeding downwards, starting from that
 
+00:53:54,300 --> 00:54:03,200
 C, F, Bb, Eb, Ab, Db, Gb, B, E, A, D, G, C
 
+00:54:03,300 --> 00:54:09,200
 back to C, that's the circle of twelve fifths, and that's the answer I promised you;
 
+00:54:09,300 --> 00:54:13,200
 that's how we got our twelve different tones of our chromatic scale.
 
-Because if you take all those twelve of the circle of fifths, and put them together
+00:54:13,300 --> 00:54:17,200
+Because if you take all those twelve of the circle of fifths,
 
-in scale order, you'll get this.
+00:54:17,300 --> 00:54:21,200
+and put them together in a scale order, you'll get this.
 
+00:54:23,300 --> 00:54:28,200
 And what's more those twelve notes generate a circle of twelve different keys,
 
-through which, thanks to the perfecting of the tempered system, composers can now
+00:54:28,300 --> 00:54:32,200
+through which, thanks to the perfecting of the tempered system,
 
-go free willing at their own chromatic pleasure.
+00:54:32,300 --> 00:54:39,200
+composers can now go free willing at their own chromatic pleasure.
 
+00:54:43,300 --> 00:54:48,200
 And this means ultimately Fear Harvard can sound like this.
 
+00:54:55,300 --> 00:55:03,200
 That's chromatic porrige; and in our own century it's going to become goulash.
 
+00:55:03,300 --> 00:55:09,200
 How does music contain this loose runny chromaticism?
 
-By the basic principle of diatonicism; that stable relationship
+00:55:09,300 --> 00:55:13,200
+By the basic principle of diatonicism;
 
-of tonics, dominants, sub-dominants, and super-tonics and new dominants and
+00:55:13,300 --> 00:55:18,200
+that stable relationship of tonics, and dominants,
 
-new tonics, and now we modulate as freely as we want, as chromatically as we want,
+00:55:18,300 --> 00:55:26,200
+sub-dominants, and super-tonics and new dominants and new tonics,
 
+00:55:26,300 --> 00:55:31,200
+and we can now modulate as freely as we want, as chromatically as we want,
+
+00:55:31,300 --> 00:55:35,200
 and stil have complete tonal control.
 
+00:55:35,300 --> 00:55:46,200
 This great system of tonal controls was perfected and codified by Bach, J.S.Bach,
 
-whose genius was to balance so delicately and so justly these two forces of
+00:55:46,300 --> 00:55:52,200
+whose genius was to balance so delicately and so justly
 
-chromaticism and diatonicism, forces that are equally powerful and presumably
+00:55:52,300 --> 00:55:56,200
+these two forces of chromaticism and diatonicism,
 
-contradictory in nature.
+00:55:56,300 --> 00:56:01,200
+forces that were equally powerful and presumably contradictory in nature.
 
-And this point of delicate balance is like the still center in the stormy flux of
+00:56:01,300 --> 00:56:04,200
+And this point of delicate balance
 
-musical history.
+00:56:04,300 --> 00:56:09,200
+is like the still center in the stormy flux of musical history.
 
-A condition of such stability that was able to continue with out remarkable changes
+00:56:09,300 --> 00:56:12,200
+A condition of such stability
 
-for almost a century; and this roughly a hundred years became a golden age.
+00:56:12,300 --> 00:56:16,200
+that was able to continue without remarkable changes for almost a century;
 
-This is not to say that the world drastic changes in style and form in those a hundrend years.
+00:56:16,300 --> 00:56:22,200
+and this roughly a hundred years became a golden age.
 
-It's after all this golden age saw emergence of a whole new Rococo style; to say nothing
+00:56:22,300 --> 00:56:28,200
+This is not to say that there weren't drastic changes in style and form during those hundrend of years.
 
-of the phenomenal rise of sonata form and the hands of such giants as C.P.E.Bach and Haydn and Mozart and
+00:56:28,300 --> 00:56:33,200
+It's after all this golden age saw emergence of a whole new Rococo style;
 
-Beethoven himself.
+00:56:33,300 --> 00:56:37,200
+to say nothing of the phenomenal rise of sonata form
 
-But these changes are syntactic and semantic changes, which will be examining and enjoying in future lectures.
+00:56:37,230 --> 00:56:45,200
+and the hands of such giants as C.P.E.Bach and Haydn and Mozart and Beethoven himself.
 
+00:56:45,300 --> 00:56:49,200
+But these changes are syntactic and semantic changes,
+
+00:56:49,230 --> 00:56:53,200
+which will be examining and enjoying in future lectures.
+
+00:56:53,300 --> 00:56:57,200
 Right now, we are limiting our investigation to phonology;
 
+00:56:57,300 --> 00:57:01,200
 and in these terms, we can see the peak attained by Bach,
 
-continuing as s kind of a plateau, level and lofty right in to the music of Beethoven.
+00:57:01,300 --> 00:57:08,200
+continuing as s kind of a plateau, level and lofty right into the music of Beethoven.
 
+00:57:08,300 --> 00:57:15,200
 Now at this point, I'd like to invite you to listen with me to one of the supreme examples of this golden age:
 
+00:57:15,300 --> 00:57:22,200
 Mozart's G minor symphony, a work of utmost passion utterly controlled
 
+00:57:22,300 --> 00:57:26,200
 and of free chromaticism elegantly contained.
 
+00:57:26,300 --> 00:57:33,200
 I'll try to prepare you a bit somewhat with a few illustrations of this control and containment,
 
+00:57:33,300 --> 00:57:39,200
 so that you can hear the symphony, hopefully with fresh phonological ears.
 
-Remember what we are looking for is the wonderfully creative way in which chromatic flexibility
+00:57:39,300 --> 00:57:46,200
+And remember what we are looking for is the wonderfully creative way in which chromatic flexibility
 
+00:57:46,300 --> 00:57:52,200
 can be systematically contained within the framework of tonic-dominant relationships.
 
-It's a curious thing and a crucial one, that through this perfect combination of opposites,
+00:57:52,300 --> 00:57:56,200
+It's a curious thing and a crucial one,
 
+00:57:56,300 --> 00:58:00,200
+that through this perfect combination of opposites,
+
+00:58:00,300 --> 00:58:08,200
 chromaticism and diatonicism, there is distiled the essence of ambiguity of all things.
 
-This word "ambiguity" may seem to be the most unlikely word to use to speak of a golden age
+00:58:08,300 --> 00:58:11,200
+This word "ambiguity" may seem to be the most unlikely word
 
-composers like Mozart, a master of clarity and precision.
+00:58:11,300 --> 00:58:15,200
+to use in speaking of a golden age composers like Mozart,
 
-But ambiguity has always inhabited musical art, indeed all the arts; because it's one of art's most
+00:58:15,300 --> 00:58:18,200
+a master of clarity and precision.
 
-potent aesthetic functions.
+00:58:18,300 --> 00:58:24,200
+But ambiguity has always inhabited musical art, indeed all the arts;
 
-More ambiguous, more expressive, up to a certain point.
+00:58:24,300 --> 00:58:28,200
+because it is one of art's most potent aesthetic functions.
 
-Of course there is a limit, which we are going to run into in the course of these lectures.
+00:58:28,300 --> 00:58:34,200
+The more ambiguous, the more expressive, up to a certain point, of course there is a limit,
 
+00:58:34,300 --> 00:58:37,200
+which we are going to run into in the course of these lectures.
+
+00:58:37,300 --> 00:58:42,200
 We are going to run into a state of such increased ambiguity
 
-that problems of musical clarity are bound to arise; and that's where we'll be confronted head on
+00:58:42,300 --> 00:58:46,200
+that problems of musical clarity are bound to arise;
 
-by Ive's unanswered question: whither. Meanwhile, we are still in the golden age with ambiguity
+00:58:46,230 --> 00:58:52,200
+and that's where we'll be confronted head on by Ive's unanswered question: whither.
 
-classically contained in the Augusten balances and proportions in here into this Mozart's symphony.
+00:58:52,300 --> 00:58:55,800
+Meanwhile, we are still in the golden age
 
+00:58:56,000 --> 00:59:01,200
+with ambiguity classically contained in the Augusten balances and proportions
+
+00:59:01,300 --> 00:59:04,200
+in here into this Mozart's symphony.
+
+00:59:04,300 --> 00:59:06,200
 Let's look at it very briefly.
 
-You all remember the opening in first movement. This whole section moves quite easily and
+00:59:06,300 --> 00:59:11,200
+You all remember the opening in first movement.
 
-diatonically from its G minor--tonic, to its first kins, which is naturally enough on the dominant.
+00:59:20,300 --> 00:59:25,200
+This whole section moves quite easily and diatonically from its G minor
 
+00:59:25,300 --> 00:59:31,200
+tonic, to its first kins, which is naturally enough on the dominant.
+
+00:59:35,300 --> 00:59:38,200
 And just as easily slipping back into the tonic.
 
+00:59:42,300 --> 00:59:44,200
 Back we are.
 
-Now, of course you remember that this tonic-dominant relationship arises from the adjacency
+00:59:45,000 --> 00:59:48,200
+Now, of course you remember that this tonic-dominant relationship
 
-of the fundamental tone, in this case this G, and its first overtone that basically?? of the fifth.
+00:59:48,205 --> 00:59:51,200
+arises from the adjacency of the fundamental tone,
 
-And from there the music proceeds by a circle of fifths, downward circle of fifths;
-to it's relative major Bb, that is exactly where it's supposed to be for the appearence of the
-second thematic section.
+00:59:51,300 --> 00:59:55,200
+in this case this G, with its first overtone that basic interval of the fifth.
 
-But notice that Mozart's theme has already chromatically formed; and it gets more so
+00:59:55,300 --> 01:00:00,200
+And from there the music proceeds by a circle of fifths,
 
-as it goes on; and even more so as it repeats.
+01:00:00,300 --> 01:00:03,200
+downward circle of fifths;
 
-What's this? A whole new key, Ab major; a sudden new key, unrelated to either Bb or G minor.
+01:00:03,300 --> 01:00:10,200
+to it's relative major Bb, which is exactly where it's supposed to be
 
+01:00:10,300 --> 01:00:13,200
+for the appearence of the second thematic section.
+
+01:00:18,300 --> 01:00:22,200
+But notice that Mozart's theme has already chromatically formed;
+
+01:00:24,000 --> 01:00:26,200
+and it gets more so as it goes on;
+
+01:00:28,300 --> 01:00:31,200
+and even more so as it repeats.
+
+01:00:34,300 --> 01:00:39,200
+What's this? A whole new key, Ab major;
+
+01:00:39,300 --> 01:00:43,200
+a sudden new key, unrelated to either Bb or G minor.
+
+01:00:43,300 --> 01:00:48,200
 How did we get here? By the well-known circle of fifths.
 
-Did you hear those stable consecutive fifths striding inexorably from domanmints to tonic
+01:00:48,300 --> 01:00:58,200
+Did you hear those stable consecutive fifths striding inexorably from domanmints to tonic in the base.
 
-in the base. Dominant-tonic, Dominant-tonic, Dominant-tonic.
+01:01:02,300 --> 01:01:06,200
+Dominant-tonic, Dominant-tonic, Dominant-tonic.
 
-While above the melodical line descends by chromatic half steps into another region of
+01:01:06,300 --> 01:01:14,200
+While above the melodical line descends by chromatic half steps into another region of Ab major.
 
-Ab major.
+01:01:14,300 --> 01:01:19,200
+There are the classical balances we are talking about: chromatic wandering on the top,
 
-Here are the classical balances we are talking about:
-
-Chromatic wandering on the top,
+01:01:22,000 --> 01:01:25,200
 but firmly supported by the tonic-dominant structure underneath.
 
-And you see now what I meant by the beauty of ambiguity, it is combination of
+01:01:28,300 --> 01:01:33,200
+And you see now what I meant by the beauty of ambiguity,
 
-those two contradictory forces: chromaticism and diatonicism, uprating at the same time,
+01:01:33,300 --> 01:01:40,200
+it is combination of those two contradictory forces: chromaticism and diatonicism,
 
-that makes this passage so expressive.
+01:01:40,300 --> 01:01:44,200
+uprating at the same time, that makes this passage so expressive.
 
+01:01:48,300 --> 01:01:51,200
 So we are in the midst of chromatic adventure, right?
 
+01:01:51,220 --> 01:01:55,200
 How do we get out of this strange Ab territory.
 
+01:01:55,300 --> 01:02:00,200
 By a simple chromatic shift like side-slipping on skis.
 
+01:02:04,300 --> 01:02:08,200
 And there we are back safely in Bb major where we belong.
 
+01:02:08,300 --> 01:02:14,000
 Now, if you could follow that, you could follow any number of similar adventures.
 
+01:02:14,001 --> 01:02:17,200
 For instance, the way Mozart starts his development section.
 
-It's established as firmly in Bb major. But no!
+01:02:17,300 --> 01:02:20,200
+It's established as firmly in Bb major.
 
-Off he goes on another chromatic adventure, which lands us in the impossible key
+01:02:21,300 --> 01:02:23,200
+But no!
 
-of F# minor. Now this was done by absolute whim arbitrarily; it's a bit of
+01:02:25,300 --> 01:02:28,200
+Off he goes on another chromatic adventure,
 
-chromatic acrobatics if you will, startling passage with development section,
+01:02:32,300 --> 01:02:36,200
+which lands us in the impossible key of F# minor.
 
-which is what the development section should be, a startling new looks at new
+01:02:36,300 --> 01:02:40,200
+Now this was done by absolute whim arbitrarily;
 
-material. But eventually he must get us back to a recapitulation in G minor,
+01:02:40,300 --> 01:02:43,200
+it's a bit of chromatic acrobatics if you will,
 
+01:02:43,203 --> 01:02:46,200
+startling passage with development section,
+
+01:02:46,300 --> 01:02:51,200
+which is what the development section should be, a startling new looks at old material.
+
+01:02:51,300 --> 01:02:56,200
+But eventually he must get us back to a recapitulation in G minor,
+
+01:02:56,300 --> 01:02:58,200
 the original home soil.
 
-And he is completely free to make this journey as chromatically as he will,
+01:02:58,300 --> 01:03:02,200
+And he is completely free to make this journey as chromatically as he wishes,
 
+01:03:03,203 --> 01:03:06,200
 his fantacy is totally released; it's a development section.
 
+01:03:06,300 --> 01:03:08,200
 Free-willing to act!
 
-But even here, a basic diatonic laws contain and control that free willing, passion and fantacy.
+01:03:08,300 --> 01:03:15,200
+But even here, the basic diatonic laws contain and control that free willing,
 
-And all by those progressions of fifths, the dominant seeking it's tonic, and each
+01:03:15,300 --> 01:03:17,200
+passion and fantacy.
 
-tonic turning into a dominant seeking its tonic, and that tonic tuning into seeking
+01:03:17,300 --> 01:03:22,200
+And all by those progressions of fifths, the dominant seeking it's tonic,
 
-its own tonic and over and over again.
+01:03:22,300 --> 01:03:26,200
+and each tonic turning into a dominant seeking its tonic,
 
-We are in F# minor right? Now through a sequence of such progressons,
+01:03:26,300 --> 01:03:30,200
+and that tonic tuning into seeking its own tonic and over and over again.
 
-it changes that F# minor tonality from tonic function to a dominant function, which is
+01:03:30,300 --> 01:03:33,200
+We are in F# minor right?
 
-seeking its tonic B natural, and here we are, here is that B natural.
+01:03:33,300 --> 01:03:36,200
+Now through a sequence of such progressons,
 
+01:03:36,220 --> 01:03:44,200
+it changes that F# minor tonality from tonic function to a dominant function,
+
+01:03:44,300 --> 01:03:47,200
+which is seeking its tonic B natural,
+
+01:03:47,300 --> 01:03:52,200
+and here we are, here is that B natural.
+
+01:03:52,300 --> 01:03:58,200
 And B natural as a dominant seeking its tonic E. And so into E we go;
 
-and by the same chain of fifth, E seeks A.
+01:04:00,300 --> 01:04:04,200
+and by the same chain of fifths, E seeks A.
 
-That's A, and A seeks D. D -- and so on through the circle
+01:04:06,300 --> 01:04:09,200
+That's A, then A seeks D.
 
-until we finally lead back home to G minor.
+01:04:11,300 --> 01:04:17,200
+D -- and so on through the circle until we finally lead back home to G minor.
 
+01:04:17,300 --> 01:04:23,200
 But even this leaning to the home key is chromatically written,
 
+01:04:23,300 --> 01:04:26,200
 firmly held in place of course, by the dominant pedal.
 
+01:04:27,300 --> 01:04:31,200
 Listen to this creepy crawly chromaticism.
 
-We are back to our old so gratify and welcome recapitulation in G minor.
+01:04:44,300 --> 01:04:52,200
+We are back to our old so gratifying and welcome recapitulation in G minor.
 
-Now I must point out that these adventures are much more complex and sutle than
+01:04:52,300 --> 01:04:59,200
+Now I must point out that these adventures are much more complex and sutle than I made them sound;
 
-I made them sound; the procedure is not always exactly by fifth;
+01:04:59,300 --> 01:05:02,200
+the procedure is not always exactly by fifths;
 
-there are twists and turns which will take hours to describe acurately even to
+01:05:02,300 --> 01:05:05,200
+there are twists and turns which will take
 
-a classroom of Harvard music students.
+01:05:05,230 --> 01:05:09,200
+hours to describe acurately even to a classroom of Harvard music students.
 
+01:05:09,300 --> 01:05:16,200
 The best I can do is to give you some insight into this marvel of ambiguity.
 
-The diatonic containment of chromaticism, so that when you hear, for instance,
+01:05:16,300 --> 01:05:20,100
+The diatonic containment of chromaticism,
 
-this second movement, this extraordinary chromatic passage, you can also be aware
+01:05:20,200 --> 01:05:24,200
+so that when you hear, for instance, this second movement,
 
-of the strong diatonic underpinnings: those fifths again striding inexorably from
+01:05:24,300 --> 01:05:27,200
+this extraordinary chromatic passage,
 
-tonic to dominant. See if you can hear them.
+01:05:31,300 --> 01:05:36,200
+you can also be aware of the strong diatonic underpinnings:
 
-Even in the third movement, the minuet, which is extremely diatonic; it's hardly
+01:05:36,300 --> 01:05:41,200
+those fifths again striding inexorably from tonic to dominant.
 
-chromatic at all, Mozart can't resist just before the end one of his charming
+01:05:45,300 --> 01:05:47,200
+See if you can hear them.
 
-chromatic excursions. But instantly it all writes itself in the classical
+01:05:53,300 --> 01:05:59,200
+Even in the third movement, the minuet, which is extremely diatonic; it's hardly chromatic at all,
 
-tonic-dominant cadence.
+01:06:03,300 --> 01:06:09,200
+Mozart can't resist just before the end one of his charming chromatic excursions.
 
+01:06:11,300 --> 01:06:17,200
+But instantly it all writes itself in the classical tonic-dominant cadence.
+
+01:06:22,300 --> 01:06:26,200
 But the most breath-taking chromatic trip of all, occurs in the final movement,
 
-which begins as you remember.
+01:06:26,300 --> 01:06:28,200
+which begins as you remember
 
+01:06:31,300 --> 01:06:36,200
 Innocent enough and tonally not too eventful throughout the whole exposition.
 
+01:06:36,300 --> 01:06:42,200
 But then again comes the development section, and all hell breaks loose.
 
-Do you realise that wild and tonal sonic passage contains all the twelve
+01:06:48,300 --> 01:06:53,200
+Do you realise that wild and tonal sonic passage
 
-chromatic tones except the tonic G.
+01:06:53,300 --> 01:06:59,200
+contains all the twelve chromatic tones except the tonic G.
 
+01:06:59,300 --> 01:07:05,200
 What an inspired idea! All the notes except the tonic.
 
+01:07:05,300 --> 01:07:15,200
 It could easily pass for 20th century music if we didn't already know that it was Mozart.
 
+01:07:15,300 --> 01:07:21,200
 But event that explosion of chromaticism is explainable in terms of the circle of fifths.
 
-Not that I'm dreaming of burdening you.
+01:07:21,203 --> 01:07:23,200
+Not that I dream of burdening you with it.
 
-But take my words for it that outburst of chromatic rage is classically contained and
+01:07:23,300 --> 01:07:28,200
+But take my words for it that outburst of chromatic rage
 
-so is the climax of this development section, which finds itself suddenly in the key of,
+01:07:28,300 --> 01:07:33,200
+is classically contained and so is the climax of this development section,
 
-it's not so sudden, in key of C# minor.
+01:07:33,300 --> 01:07:40,200
+which finds itself suddenly in the key of, it's not so sudden, in key of C# minor.
 
-C# minor which is as far as you can get from the home key of G minor,
+01:07:40,300 --> 01:07:48,200
+C# minor which is as far away as you can get from the home key of G minor,
 
-sounds pretty remote, does it?
+01:07:48,300 --> 01:07:51,200
+sounds pretty remote, doesn't it?
 
-And again believe me all these from logical arrivals and departures, to and from the most
+01:07:53,300 --> 01:07:58,200
+And again believe me all these phonological arrivals and departures,
 
-related areas, operating in the most smoothly Mozartian way under perfect diatonic control.
+01:07:58,300 --> 01:08:02,200
+to and from the most distantly remote areas,
 
+01:08:02,300 --> 01:08:08,200
+operating in the smoothly most Mozartian way under perfect diatonic control.
+
+01:08:08,300 --> 01:08:11,200
 Well, what is all this add up to?
 
+01:08:11,300 --> 01:08:15,200
 Let's find out by hearing the whole work,
 
+01:08:15,300 --> 01:08:20,200
 as performed on film by the Boston symphony orchestra.
 
+01:08:20,300 --> 01:08:27,200
 And I hope we will be listening to it with fresh phonological ears.
 
-Now last night, at the first presentation of this lecture, in Harvard's Great theatre,
+01:39:58,300 --> 01:40:00,200
+What a piece!
 
-this performance of Mozart's symphony was interrupted in the middle of first movement by
+01:40:00,300 --> 01:40:07,200
+Now last night, at the first presentation of this lecture, the Harvard's Great theatre,
 
-a bomb scare. And we all had to go out into the street; nobody knowing whether we
+01:40:08,300 --> 01:40:15,200
+this performance of Mozart's symphony was interrupted in the middle of first movement by a bomb scare.
 
-were going to come back and resume or not; and wait for almost an hour, until we had
+01:40:16,300 --> 01:40:20,200
+And we all had to go out into the street;
 
-word that the police cleared the whole theatre. And during that wait,
+01:40:20,300 --> 01:40:24,200
+nobody knowing whether we were going to come back and resume or not;
 
-I must say that I was sick at heart and overcome by despair because why had I been
+01:40:25,300 --> 01:40:28,200
+and wait for almost an hour,
 
-talking my guts out for an hour and a half on human brotherhood and universality only
+01:40:28,300 --> 01:40:34,200
+until we had word that the police cleared the whole theatre.
 
-to have this kind of despicable disproof of humanbrotherhood flown in our faces.
+01:40:35,300 --> 01:40:39,200
+And during that wait,
 
+01:40:39,300 --> 01:40:43,200
+I must say that I was sick at heart and
+
+01:40:43,300 --> 01:40:49,200
+overcome by despair because why had I been
+
+01:40:50,300 --> 01:40:58,200
+talking my guts out for an hour and a half on human brotherhood and universality
+
+01:40:58,300 --> 01:41:09,200
+only to have this kind of despicable disproof of humanbrotherhood flown in our faces.
+
+01:41:10,300 --> 01:41:16,200
 And when I came back, and we all came back, and so many of the audiences did come back.
 
-My amazement. And listen from the beginning again, through to the end of this symphony.
+01:41:16,300 --> 01:41:18,200
+My amazement.
 
+01:41:19,000 --> 01:41:25,200
+And listen from the beginning again, through to the end of this symphony.
+
+01:41:25,300 --> 01:41:30,200
 I must say that my faith was restored, and doubled;
 
-not only by this incredible piece of music, which I ??? one have to point to
+01:41:30,300 --> 01:41:35,200
+not only by this incredible piece of music,
 
-a work that symbolised in itself the essence of the whole fustian experience of man,
+01:41:35,300 --> 01:41:42,200
+which I guess one have to point to a work that symbolised in itself the
 
+01:41:42,300 --> 01:41:49,200
+essence of the whole fustian experience of man,
+
+01:41:49,300 --> 01:41:53,200
 since the Renaissance; this will be it.
 
-But also because of the number of the audiences that waited out, and came back,
+01:41:55,300 --> 01:42:01,200
+But also because of the number of the audiences that waited it out,
 
-and listened to it. Terribly moved.
+01:42:01,300 --> 01:42:06,200
+and came back, and listened to it. Terribly moved.
 
+01:42:07,300 --> 01:42:13,200
 Of course, I wouldn't be so upset if the interruption had been come during my talk,
 
-but interrupt Mozart, which were that extraordinary wholeness and continuity and entity
+01:42:13,205 --> 01:42:19,200
+but interrupt Mozart, which were that extraordinary
 
-of this work, was the greatest insult of all.
+01:42:19,300 --> 01:42:25,200
+wholeness and continuity, that entity which is this work,
 
+01:42:26,300 --> 01:42:29,200
+was the greatest insult of all.
+
+01:42:30,300 --> 01:42:36,200
 But as I say my faith was restored, just to hear it;
 
+01:42:36,300 --> 01:42:42,200
 and just to hear it with those people, and through them.
 
-So I even feel more confident over what I was trying to say in the beginning than
+01:42:43,300 --> 01:42:50,200
+So I even feel more confident over what I was trying to say in the beginning
 
-I had when wrote it.
+01:42:50,300 --> 01:42:52,200
+than I had when wrote it.
 
+01:42:54,300 --> 01:43:01,200
 Just a short word now about our subject next time, which will be syntax.
 
+01:43:01,300 --> 01:43:06,200
 If you remember the second of the three the linguistic departments.
 
-Musical and linguistic syntax, in which we will be examining the actual formations
+01:43:07,300 --> 01:43:10,200
+Musical and linguistic syntax,
 
-of these phonological elements we've been discussing this time. And then
+01:43:11,300 --> 01:43:15,200
+in which we will be examining the actual formations
 
-we'll be ready to understand the semantic problems
+01:43:15,210 --> 01:43:19,200
+of these phonological elements we've been discussing this time.
 
+01:43:19,300 --> 01:43:23,200
+And then we'll be ready to understand the semantic problems
+
+01:43:23,300 --> 01:43:26,200
 of music from Mozart to the present.
 
-And hopefully come closer and closer to understanding, and even maybe
+01:43:26,300 --> 01:43:35,200
+And hopefully come closer and closer to understanding, and even maybe answering Ive's unanswered question.
 
-answering Ive's unanswered question.
-
+01:43:35,300 --> 01:43:37,200
 Thank you.
